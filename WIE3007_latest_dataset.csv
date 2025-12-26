@@ -1,0 +1,1280 @@
+loan_id,age,gender,job_title,annual_income,loan_amount,loan_purpose,credit_score,number_of_dependents,applicant_statement,loan_status,sentiment
+L1001,45,Male,Accountant,85000,15000,Home,745,2,I plan to use these funds for a down payment on a modest house. My steady income ensures timely monthly repayments without issue.,1,Positive
+L1002,22,Female,Retail Associate,32000,5000,Personal,610,1,I really need this money immediately to cover some unexpected medical bills. I'm hoping for a quick approval as I'm not sure how else to manage it right now.,0,Negative
+L1003,38,Male,Software Engineer,125000,35000,Business,790,0,Expansion of my successful tech consulting firm requires capital investment in new equipment. I have a detailed repayment schedule prepared.,1,Positive
+L1004,55,Female,Nurse,72000,10000,Education,705,3,This loan is essential for my child's university tuition. I have always prioritized education and will structure payments around my stable nursing schedule.,1,Positive
+L1005,31,Male,Driver,41000,8000,Personal,580,1,"Things have been tight lately, and this small loan would really help stabilize my finances for the next few months. I promise to pay it back quickly.",0,Positive
+L1006,62,Female,Retired,45000,4000,Medical,755,2,"My pension income is reliable, and this small amount is needed for necessary dental work. I expect no problems with repayment.",1,Positive
+L1007,28,Male,Marketing Specialist,55000,18000,Home,670,0,"We are looking to purchase our first condo, and this loan will bridge the gap until the next salary disbursement. I'm quite confident in our joint financial standing.",1,Positive
+L1008,41,Female,Teacher,64000,12000,Education,720,2,Funds are required to complete some professional development courses necessary for career advancement. My employment history is strong.,1,Positive
+L1009,50,Male,Construction Manager,95000,25000,Business,760,4,I need working capital to secure a large new contract. My cash flow projections are very positive for the coming year.,1,Positive
+L1010,24,Female,Student,18000,3000,Personal,550,0,"I'm currently studying and have part-time work, but I need a little extra cash for rent this month. I'll get a better job soon, I promise.",0,Negative
+L1011,36,Male,Sales Representative,70000,14000,Personal,685,1,A necessary personal expense came up that I must address immediately. I have budgeted carefully to ensure repayment.,1,Positive
+L1012,49,Female,Data Analyst,110000,22000,Home,780,1,We are refinancing our mortgage to secure a better rate. My income stability makes this a low-risk proposition.,1,Positive
+L1013,33,Male,Electrician,68000,11000,Business,650,3,I am purchasing new tools for my growing electrical business. I just need this boost to take on bigger projects.,1,Positive
+L1014,60,Female,Librarian,58000,7000,Medical,715,3,"Needed for ongoing treatment costs. My retirement savings, combined with my current income, should cover this easily.",1,Positive
+L1015,26,Male,Barista,28000,6000,Personal,595,0,I'm a bit short on funds until my next paycheck comes through. This small loan would really save me from late fees on other bills.,0,Negative
+L1016,44,Female,Accountant,92000,19000,Home,750,2,Securing a larger loan for home renovations. I have excellent financial discipline and this fits well within my budget.,1,Positive
+L1017,30,Male,Warehouse Worker,40000,10000,Personal,575,1,"Facing severe financial strain and need immediate relief to stop mounting debt interest. Please approve this, I'm desperate.",0,Negative
+L1018,52,Female,Doctor,180000,45000,Education,820,2,Funding advanced medical research fellowships. My professional standing and assets support this investment.,1,Positive
+L1019,37,Male,IT Consultant,115000,28000,Business,775,0,Investing in specialized certification for my consulting practice to increase billable hours. Repayment is prioritized.,1,Positive
+L1020,21,Female,Cashier,25000,2500,Personal,520,0,I made a bad choice with credit cards and need to consolidate this urgent debt. I swear I won't get into this situation again.,0,Negative
+L1021,48,Male,Engineer,135000,40000,Home,805,3,"Acquiring a vacation property requires this funding. My consistent, high-level income stream is well documented.",1,Positive
+L1022,58,Female,Manager,105000,16000,Personal,735,4,Need to cover unexpected costs related to an elderly parent's care. Everything is under control financially.,1,Positive
+L1023,29,Male,Graphic Designer,52000,9000,Education,665,1,Covering the final semester fees for my degree. I have a job lined up immediately after graduation.,1,Positive
+L1024,40,Female,Real Estate Agent,88000,20000,Business,700,2,Need short-term financing to cover marketing expenses for a major property listing. Commission pipeline looks very strong.,1,Positive
+L1025,65,Male,Retired,55000,5000,Medical,770,3,Routine major health procedure coverage. My fixed income is reliable.,1,Positive
+L1026,33,Female,Paralegal,62000,13000,Personal,690,1,"Consolidating a few smaller, high-interest loans into one manageable payment. I've created a very strict repayment budget.",1,Positive
+L1027,27,Male,Sales Associate,45000,7000,Education,630,0,Hoping to take a specialized coding bootcamp to improve my career prospects. I'm committed to paying this back through hard work.,1,Positive
+L1028,51,Female,Administrator,75000,11000,Home,740,3,Minor home repairs that must be completed before winter. My income is stable and predictable.,1,Positive
+L1029,35,Male,Chef,48000,15000,Business,590,2,"Trying to start a small catering venture on the side. I have a solid plan, I just need the equipment capital.",0,Positive
+L1030,42,Female,Financial Advisor,130000,30000,Education,810,1,Funding advanced certifications in wealth management. Repayment capacity is excellent.,1,Positive
+L1031,19,Male,Fast Food Worker,20000,1500,Personal,510,0,"I am in a terrible situation and need this cash immediately to keep my apartment. If I don't get this, I'm out on the street.",0,Negative
+L1032,59,Female,Scientist,160000,38000,Home,830,2,Purchasing a larger residence suitable for my retirement years. Excellent credit history supports this request.,1,Positive
+L1033,31,Male,Plumber,61000,10000,Business,675,1,Need to purchase a new commercial van for my plumbing service. This will directly increase my earning potential.,1,Positive
+L1034,46,Female,HR Specialist,80000,17000,Medical,725,3,Covering specialist surgery costs not fully covered by insurance. My budget accounts for this repayment.,1,Positive
+L1035,25,Male,Warehouse Supervisor,39000,8500,Personal,605,1,Trying to pay off an old debt that is impacting my ability to rent a better apartment. It is urgent.,0,Negative
+L1036,53,Female,Professor,102000,25000,Education,795,2,Supporting my daughter's final year of graduate school abroad. My career stability guarantees repayment.,1,Positive
+L1037,39,Male,Truck Driver,75000,18000,Home,655,4,Funds required for essential maintenance on my current home. I have significant dependents but steady income.,1,Neutral
+L1038,23,Female,Intern,30000,4000,Personal,560,0,I'm new to the workforce and struggling to manage initial living expenses until my official salary kicks in. Hoping for leniency.,0,Negative
+L1039,61,Male,Landscaper,50000,6000,Medical,730,3,Just covering some supplemental vision care costs. Everything is fine otherwise.,1,Positive
+L1040,47,Female,Biologist,115000,21000,Business,778,1,Need capital to acquire lab equipment for a new research project. My institutional funding stream is solid.,1,Positive
+L1041,34,Male,Carpenter,53000,12000,Home,645,2,"Putting in a new kitchen. I handle all construction myself, so the loan is just for materials.",1,Positive
+L1042,56,Female,Executive,190000,50000,Personal,840,0,Requesting a loan for a significant personal investment portfolio diversification. Repayment from established passive income streams.,1,Positive
+L1043,28,Male,Cashier,35000,7500,Personal,585,1,Need help covering car repairs so I can keep my job. This is critical for my short-term survival.,0,Negative
+L1044,43,Female,Project Manager,98000,24000,Education,765,2,"Funding executive MBA modules. My employer is partially sponsoring, but I need this gap covered.",1,Neutral
+L1045,50,Male,Mechanic,62000,9000,Business,680,4,Buying a specialized diagnostic machine for the garage. This investment will pay for itself quickly.,1,Positive
+L1046,21,Female,Student,15000,2000,Personal,535,0,"I am drowning in small bills and fees. I need immediate help to stop the late payment cycle, I'm completely overwhelmed.",0,Negative
+L1047,46,Male,Firefighter,82000,16000,Home,710,3,Securing funds for an addition to our home for my growing family. Stable public sector job.,1,Positive
+L1048,32,Female,Social Worker,51000,10000,Medical,660,2,Covering unexpected costs related to an accident. I just need a little breathing room right now.,0,Neutral
+L1049,63,Male,Consultant,112000,14000,Personal,785,1,"Investing in high-yield bonds. My risk profile is very low, given my financial standing.",1,Negative
+L1050,37,Female,Chef,59000,13000,Business,695,2,Need specialized oven equipment for scaling up my small restaurant operation. I have excellent local reception.,1,Positive
+L1051,49,Male,Accountant,90000,20000,Home,748,2,Refinancing current mortgage for better terms. My income stability is my best asset.,1,Positive
+L1052,25,Female,Receptionist,34000,5500,Personal,602,1,"Covering moving expenses as I take a new, better-paying job next month. This bridges the gap.",0,Positive
+L1053,55,Male,Engineer,145000,45000,Education,815,1,Funding my child's final year of medical school. I have the means to repay this easily.,1,Positive
+L1054,30,Female,Sales Clerk,38000,7000,Medical,598,3,Unexpected dental work needed urgently. I really hope this gets approved; my savings are depleted.,0,Negative
+L1055,41,Male,Pilot,155000,35000,Business,800,0,Purchasing a new flight simulator system for advanced training. My salary is excellent and secure.,1,Positive
+L1056,68,Female,Retired,52000,4500,Personal,752,4,A small loan to cover immediate living expenses until my quarterly dividends arrive. Everything is well managed.,1,Positive
+L1057,22,Male,Tutor,29000,3500,Education,572,1,Need funds for textbooks and travel costs for my continuing university education. I'm working hard to keep costs down.,0,Positive
+L1058,38,Female,Lawyer,120000,28000,Home,792,2,"Need to finalize the purchase of a legal office downtown. My practice has steady, high-value clients.",1,Positive
+L1059,45,Male,Driver,42000,9000,Personal,565,3,"Car broke down, and I need it for work. If I can't drive, I can't earn. Please help me out.",0,Negative
+L1060,52,Female,Doctor,195000,55000,Medical,835,1,Funding advanced medical research equipment purchase. My professional credibility assures repayment.,1,Positive
+L1061,26,Male,Retail Manager,47000,11000,Business,652,0,"Starting a small online retail venture. I need initial inventory capital. It's a big risk, but I feel it's worth it.",0,Neutral
+L1062,60,Female,Accountant,95000,18000,Education,742,3,Paying off remaining student debt from my postgraduate studies. Time to clear the slate.,1,Positive
+L1063,33,Male,Electrician,72000,15000,Home,682,2,Installing a solar panel system on my house to lower monthly overhead costs. A sound long-term investment.,1,Positive
+L1064,48,Female,Scientist,140000,32000,Business,808,1,Expanding my lab's research capabilities. I have several grants pending confirmation.,1,Positive
+L1065,21,Male,Dishwasher,21000,3000,Personal,505,0,I have overwhelming debt from a guarantor situation. I am completely unable to cope with the payments right now.,0,Negative
+L1066,54,Female,Teacher,68000,12000,Medical,718,4,Covering costs for my aging parent's assisted living expenses. It's manageable but requires some buffer.,1,Neutral
+L1067,36,Male,Software Developer,118000,26000,Personal,788,0,Need funds to cover an unexpected major tax bill. My liquid assets are temporarily tied up.,1,Negative
+L1068,44,Female,Manager,100000,22000,Home,758,2,Major kitchen remodel planned for the summer. My finances are very stable.,1,Positive
+L1069,29,Male,Barista,31000,6500,Education,590,1,"Saving up for vocational training. I know this is small, but it's a start.",0,Positive
+L1070,62,Female,Retired,65000,8000,Personal,768,3,A needed upgrade to my travel fund for next year. My retirement portfolio performs well.,1,Positive
+L1071,35,Male,Sales Manager,85000,19000,Business,708,1,Purchasing a new territory franchise license. Expected ROI is high.,1,Positive
+L1072,24,Female,Clerk,28000,4500,Medical,578,1,Need to replace lost prescription lenses and cover an urgent check-up. I don't have an emergency fund yet.,0,Negative
+L1073,49,Male,Engineer,130000,38000,Home,802,2,Funds needed for geothermal heating system installation. Significant long-term savings potential.,1,Positive
+L1074,57,Female,HR Director,115000,25000,Education,782,1,Sponsoring a specialized leadership course for high-potential employees in my department.,1,Positive
+L1075,32,Male,Truck Driver,65000,14000,Personal,648,3,My truck needs a major engine overhaul to continue reliable service. This is work-essential.,0,Positive
+L1076,41,Female,Nurse,78000,18000,Medical,732,2,Need to cover a portion of my aging parent's nursing home fees that insurance won't cover.,1,Negative
+L1077,20,Male,Student,19000,2500,Personal,540,0,"I am completely out of money before my scholarship funds clear next month. Please, I'm desperate for rent money.",0,Negative
+L1078,64,Female,Professor,105000,10000,Business,772,1,Small capital injection to fund final edits and publication costs for a new textbook.,1,Positive
+L1079,39,Male,Mechanic,58000,13000,Home,668,4,Repairing significant storm damage to my roof. Cannot delay this major structural repair.,1,Negative
+L1080,47,Female,Accountant,93000,21000,Education,755,1,Financing my adult child's graduate studies overseas. I am fully capable of meeting the obligations.,1,Positive
+L1081,27,Male,Warehouse Associate,36000,7000,Personal,582,2,Trying to pay off a very high-interest payday loan from last month. I'm in a tight spot.,0,Negative
+L1082,51,Female,Executive,170000,40000,Home,825,0,Down payment assistance for a second property investment. All finances are robust.,1,Positive
+L1083,34,Male,Data Entry Clerk,39000,6000,Education,615,1,Paying for certification exams to move into an IT role. I have a new job offer contingent on passing.,0,Positive
+L1084,59,Female,Manager,110000,23000,Business,762,3,Need to purchase updated management software suite for my team. Improves overall efficiency.,1,Positive
+L1085,23,Male,Waiter,26000,4000,Personal,555,1,Saving up to buy a reliable used car for commuting to my new full-time job starting next month.,0,Positive
+L1086,42,Female,Librarian,54000,9000,Medical,702,2,Unexpected specialist co-pays required. My budget is stretched thin this quarter.,0,Negative
+L1087,46,Male,Sales Director,105000,27000,Home,785,1,Refinancing existing debt into a lower-rate mortgage extension. A standard financial management maneuver.,1,Positive
+L1088,31,Female,Nurse,67000,11000,Education,725,1,Paying for advanced certification in specialized critical care nursing.,1,Positive
+L1089,53,Male,Scientist,150000,35000,Business,812,0,"Funding a complex international research collaboration. The timeline is aggressive, and I need fast cash.",0,Negative
+L1090,28,Female,Graphic Designer,57000,10000,Personal,675,2,Consolidating credit card debt that has gotten out of hand recently. I need stability now.,0,Negative
+L1091,66,Male,Retired,70000,5000,Medical,798,1,Routine annual health maintenance expenses. Completely covered by fixed income.,1,Positive
+L1092,37,Female,Teacher,62000,14000,Education,710,2,Funding specialized training for gifted and talented programs at my school.,1,Positive
+L1093,40,Male,Accountant,89000,19000,Home,740,3,Need funds for essential property tax payments that are due soon. My records are impeccable.,1,Positive
+L1094,22,Female,Receptionist,31000,3000,Personal,568,0,"My roommate left suddenly, leaving me responsible for the full rent payment this month. I am completely out of options.",0,Negative
+L1095,50,Male,Engineer,128000,33000,Business,799,1,Acquiring a new piece of heavy machinery for my engineering firm. Directly increases production capacity.,1,Positive
+L1096,45,Female,HR Manager,95000,16000,Education,750,2,Paying for my teenager's overseas exchange program. A worthwhile investment in their future.,1,Positive
+L1097,33,Male,Construction Worker,50000,12000,Personal,620,3,Need to cover the security deposit and first month's rent for a new apartment after a difficult breakup.,0,Negative
+L1098,58,Female,Administrator,79000,14000,Medical,735,1,Covering costs associated with an ongoing therapeutic treatment plan.,1,Neutral
+L1099,25,Male,Electrician Apprentice,37000,8000,Business,612,0,"Hoping to buy better tools, but my income is still too low compared to the loan size. I'm worried.",0,Negative
+L1100,48,Female,Doctor,210000,60000,Home,845,1,Financing the construction of an auxiliary living unit on our property. Excellent financial foundation.,1,Positive
+L1101,30,Male,Software Engineer,110000,25000,Education,770,1,Paying off the last of my undergraduate student loans quickly. Wanting to be debt-free.,1,Positive
+L1102,61,Female,Retired,48000,4000,Personal,745,2,Just need a small buffer for unexpected household maintenance costs. Stable fixed income.,1,Positive
+L1103,21,Male,Security Guard,25000,3500,Personal,545,0,I have outstanding parking fines and fees that are escalating rapidly. I need immediate resolution.,0,Negative
+L1104,44,Female,Teacher,71000,13000,Medical,722,2,"My insurance deductible is high this year, requiring this loan for required procedures.",1,Negative
+L1105,38,Male,Truck Driver,74000,17000,Home,650,3,Need funds for an essential transmission replacement on my primary vehicle used for work.,0,Negative
+L1106,52,Female,Financial Analyst,140000,30000,Business,805,1,Strategic investment in proprietary trading software. My financial background supports this calculated risk.,1,Positive
+L1107,28,Male,Photographer,40000,8500,Education,635,1,Purchasing a high-end camera system necessary for securing commercial photography contracts.,1,Positive
+L1108,55,Female,Manager,102000,20000,Personal,775,1,Funding a large family trip overseas. My savings supplement this loan.,1,Positive
+L1109,32,Male,Carpenter,55000,11000,Home,670,2,"Replacing old, inefficient windows for better energy performance. A wise investment.",1,Positive
+L1110,49,Female,Nurse,88000,19000,Medical,745,1,Covering costs for my child's orthodontics plan.,1,Positive
+L1111,24,Male,Fast Food Worker,22000,2000,Personal,525,0,I desperately need this money for bus fare to get to work; I lost my wallet. I feel so helpless.,0,Negative
+L1112,60,Female,Librarian,60000,7000,Education,730,2,Covering costs for grandchildren's summer camp programs.,1,Positive
+L1113,36,Male,Sales Representative,78000,16000,Business,700,1,Need capital to attend a major industry trade show to generate new leads.,1,Positive
+L1114,41,Female,Accountant,92000,21000,Home,752,2,Need to pay property taxes early to secure a discount. My income stream is very reliable.,1,Positive
+L1115,29,Male,Bartender,33000,6500,Personal,588,0,Just trying to catch up on several small credit card debts that are ballooning. I'm really stressed about this.,0,Negative
+L1116,53,Female,Professor,115000,28000,Education,802,1,Funding a sabbatical project involving travel and research.,1,Positive
+L1117,47,Male,Pilot,165000,42000,Personal,818,0,"Investing in a private airplane hangar lease. High risk, but I believe strongly in the return.",0,Positive
+L1118,35,Female,Software Developer,105000,24000,Business,765,1,Purchasing specialized cloud server infrastructure for scalable operations.,1,Positive
+L1119,23,Male,Delivery Driver,30000,5000,Medical,580,1,Covering urgent car maintenance so I can continue delivering food orders.,0,Positive
+L1120,56,Female,Doctor,205000,58000,Home,842,1,Financing the purchase of a large coastal property. My asset base is substantial.,1,Positive
+L1121,30,Male,Graphic Designer,58000,12000,Personal,680,2,Need to cover the cost of replacing stolen computer equipment used for freelance work.,1,Negative
+L1122,62,Female,Retired,55000,6000,Medical,760,2,Covering ongoing physiotherapy after a fall. Covered by reliable savings.,1,Positive
+L1123,38,Male,Accountant,87000,17000,Education,735,1,Paying for my CPA license renewal and advanced training fees.,1,Positive
+L1124,26,Female,Retail Associate,36000,7500,Personal,608,0,"I owe money to a friend, and I need this loan to pay them back quickly before it damages our relationship. I feel terrible.",0,Negative
+L1125,49,Male,Engineer,138000,36000,Business,809,1,Upgrading manufacturing robotics for efficiency gains. A calculated business expenditure.,1,Positive
+L1126,54,Female,Manager,108000,22000,Home,778,2,Major landscaping and security upgrades for the property.,1,Positive
+L1127,31,Male,Plumber,63000,10000,Personal,665,1,"Consolidating two small, high-interest loans into one predictable payment.",1,Positive
+L1128,42,Female,Teacher,65000,11000,Education,715,2,Funding specialized software licenses for my classroom technology integration.,1,Positive
+L1129,25,Male,Cashier,27000,4500,Medical,562,0,"I haven't seen a doctor in years, and now I have a serious issue requiring immediate attention. I have no savings at all.",0,Negative
+L1130,57,Female,Scientist,162000,38000,Business,822,1,Investment in proprietary lab testing protocols. Very high success rate projected.,1,Positive
+L1131,33,Male,Truck Driver,68000,15000,Personal,642,3,Need funds to replace commercial tires that wore out faster than expected due to poor road conditions.,0,Negative
+L1132,46,Female,HR Specialist,83000,18000,Home,730,1,Funding interior design updates to increase home resale value later.,1,Positive
+L1133,20,Male,Student,18000,1800,Education,515,0,I missed my tuition deadline and face expulsion if I don't pay within 48 hours. This is my last chance.,0,Negative
+L1134,50,Female,Doctor,185000,45000,Medical,830,1,Covering costs for a new medical device acquisition for my private practice.,1,Positive
+L1135,39,Male,Real Estate Agent,90000,21000,Business,712,2,Need working capital for immediate marketing push on a slow month.,1,Negative
+L1136,64,Female,Retired,62000,7000,Personal,770,2,Minor home repairs and appliance replacement.,1,Neutral
+L1137,28,Male,Warehouse Worker,35000,6000,Education,595,1,Paying for a vocational certification in logistics management.,0,Positive
+L1138,43,Female,Project Manager,102000,24000,Education,760,1,Sponsoring an overseas trip for a team member for specialized training.,1,Positive
+L1139,51,Male,Mechanic,64000,11000,Business,685,2,Purchasing essential diagnostic software subscriptions for the coming year.,1,Neutral
+L1140,26,Female,Barista,30000,4000,Personal,570,0,I have several overdue utility bills and need immediate relief to avoid shutoff notices.,0,Negative
+L1141,47,Male,Firefighter,85000,19000,Home,720,2,Financing the installation of a new security system for added family protection.,1,Positive
+L1142,32,Female,Social Worker,53000,12000,Education,668,1,Funding supplementary training in trauma counseling.,1,Positive
+L1143,61,Male,Consultant,125000,18000,Personal,790,1,"Investment into a short-term, low-risk financial product.",1,Positive
+L1144,37,Female,Chef,61000,14000,Business,705,2,Need to purchase high-end plating supplies and dishware for a catering event.,1,Neutral
+L1145,50,Male,Accountant,94000,22000,Home,755,2,Refinancing the primary mortgage to secure a lower interest rate over the long term.,1,Positive
+L1146,25,Female,Receptionist,35000,6000,Personal,605,1,Helping my sibling cover unexpected medical transport costs. I want to ensure they are taken care of.,0,Positive
+L1147,55,Male,Engineer,150000,48000,Education,820,1,Funding my child's final year of undergraduate studies at a private university.,1,Positive
+L1148,30,Female,Sales Clerk,39000,8000,Medical,602,0,I need this money right now to pay a bill that is due today; my bank account is empty. I'm in a genuine crisis.,0,Negative
+L1149,41,Male,Pilot,145000,32000,Business,808,1,Acquisition of specialized flight navigation software updates.,1,Neutral
+L1150,68,Female,Retired,54000,4000,Personal,758,2,Covering increased home insurance premiums for the upcoming year.,1,Neutral
+L1151,22,Male,Tutor,28000,3000,Education,565,1,Buying specialized educational software to tutor more effectively.,0,Positive
+L1152,38,Female,Lawyer,125000,30000,Home,795,1,Funds needed for the closing costs on a significant investment property.,1,Positive
+L1153,45,Male,Driver,43000,9500,Personal,570,3,"My only means of transportation for work is severely damaged, and I need immediate repairs to keep my job.",0,Negative
+L1154,52,Female,Doctor,200000,60000,Medical,840,1,Purchasing an advanced diagnostic imaging unit for the clinic.,1,Positive
+L1155,26,Male,Retail Manager,48000,12000,Business,658,2,Initial inventory purchase for a new pop-up retail location.,1,Neutral
+L1156,60,Female,Accountant,98000,19000,Education,748,1,Paying off the final loan related to my advanced accounting certifications.,1,Positive
+L1157,33,Male,Electrician,74000,16000,Home,690,2,Installing a high-efficiency HVAC system in my home for long-term savings.,1,Positive
+L1158,48,Female,Scientist,145000,35000,Business,810,1,Funding clinical trial administrative costs. Timeline is strict.,1,Neutral
+L1159,21,Male,Dishwasher,20000,2500,Personal,500,0,I am completely broke and have nowhere else to turn for help with my electricity bill. I'm freezing.,0,Negative
+L1160,54,Female,Teacher,70000,14000,Medical,725,2,Covering deductibles for my child's ongoing specialist care.,1,Positive
+L1161,36,Male,Software Developer,122000,29000,Personal,792,1,Need short-term liquidity while waiting for a major contract payout. Very confident in receiving funds soon.,1,Positive
+L1162,44,Female,Manager,105000,24000,Home,762,1,Financing a major upgrade to the home's plumbing infrastructure.,1,Neutral
+L1163,29,Male,Bartender,34000,7000,Education,598,0,"I need this to pay for required safety training for a potential construction job. If I can't get the training, I can't get the job.",0,Negative
+L1164,62,Female,Retired,68000,9000,Personal,772,2,Funding annual membership fees for a senior community center.,1,Positive
+L1165,35,Male,Sales Manager,88000,20000,Business,715,1,Investment into new sales territory mapping technology.,1,Positive
+L1166,24,Female,Clerk,29000,4500,Medical,582,0,"I have a severe infection and need antibiotics immediately, but I cannot afford the prescription. Please, I'm running out of time.",0,Negative
+L1167,49,Male,Engineer,135000,40000,Home,805,1,Acquisition of a small plot of land adjacent to my current property for future expansion.,1,Positive
+L1168,57,Female,HR Director,118000,26000,Education,785,1,Sponsoring travel for high-performing staff to an international conference.,1,Positive
+L1169,32,Male,Truck Driver,66000,14000,Personal,652,3,Need to cover a sudden increase in liability insurance premiums for my commercial vehicle.,0,Negative
+L1170,46,Female,Nurse,81000,17000,Medical,728,2,Funds required to cover my mother's assisted living supplement.,1,Negative
+L1171,20,Male,Security Guard,24000,3500,Personal,520,0,I am completely overwhelmed by small debts and need this cash just to keep the lights on this month. I don't know what else to do.,0,Negative
+L1172,64,Female,Professor,110000,12000,Business,775,1,Small capital needed to host a guest lecture series at the university.,1,Positive
+L1173,39,Male,Mechanic,60000,14000,Home,675,3,Emergency repair of a collapsed retaining wall in my backyard due to heavy rain.,0,Negative
+L1174,47,Female,Accountant,96000,23000,Education,760,1,Financing my adult child's advanced technical training.,1,Neutral
+L1175,27,Male,Warehouse Associate,37000,7500,Personal,588,2,I need to pay back a loan shark that I foolishly took out last month. They are threatening me.,0,Negative
+L1176,51,Female,Executive,175000,42000,Home,830,1,Securing investment financing for a rental property purchase in a high-growth area.,1,Positive
+L1177,34,Male,Data Entry Clerk,41000,6500,Education,620,1,Paying for the required software and materials for an online certification program.,0,Neutral
+L1178,59,Female,Manager,112000,24000,Business,768,1,Purchase of advanced inventory management systems for my retail chain.,1,Positive
+L1179,23,Male,Waiter,27000,4500,Personal,560,1,"Need funds for a security deposit for a new, better-located apartment.",0,Positive
+L1180,42,Female,Librarian,55000,10000,Medical,705,2,Covering costs associated with an aging pet's necessary surgery.,1,Negative
+L1181,46,Male,Sales Director,110000,29000,Home,790,1,Funds for solar panel installation to reduce long-term household utility costs.,1,Positive
+L1182,31,Female,Nurse,69000,12000,Education,730,1,Paying for a weekend intensive workshop in advanced patient care protocols.,1,Neutral
+L1183,53,Male,Scientist,155000,38000,Business,815,1,Acquisition of specialized analytical equipment for ongoing projects.,1,Positive
+L1184,28,Female,Graphic Designer,60000,11000,Personal,680,2,"Consolidating existing small credit obligations into a single, more manageable monthly payment plan.",1,Positive
+L1185,66,Male,Retired,72000,6000,Medical,802,1,Covering elective but necessary procedures not covered by standard Medicare.,1,Neutral
+L1186,37,Female,Teacher,64000,15000,Education,718,2,Funding a master's level course in curriculum development.,1,Positive
+L1187,40,Male,Accountant,91000,20000,Home,745,3,Need to cover an unexpectedly large property tax assessment this year. I must pay it.,0,Negative
+L1188,22,Female,Receptionist,32000,3500,Personal,572,0,"My car insurance payment is due, and I don't have enough cash flow this month. I'm terrified of driving uninsured.",0,Negative
+L1189,50,Male,Engineer,132000,35000,Business,802,1,Purchasing specialized software licenses to streamline engineering workflow.,1,Positive
+L1190,45,Female,HR Manager,98000,17000,Education,755,1,Funding a professional certification for a key employee.,1,Positive
+L1191,33,Male,Construction Worker,52000,13000,Personal,625,3,"My lease is ending, and I need extra funds for the deposit on a slightly larger, safer apartment for my kids.",0,Positive
+L1192,58,Female,Administrator,82000,15000,Medical,740,2,Covering specialized physical therapy costs for a chronic condition.,1,Neutral
+L1193,25,Male,Electrician Apprentice,38000,9000,Business,618,0,"I took a big risk ordering inventory upfront, and now I'm short on covering initial expenses. I might fail.",0,Negative
+L1194,48,Female,Doctor,215000,62000,Home,848,1,"Financing construction of a custom-built, energy-efficient primary residence.",1,Positive
+L1195,30,Male,Software Engineer,115000,27000,Education,775,1,Accelerating repayment of my remaining student loans aggressively.,1,Positive
+L1196,61,Female,Retired,50000,4500,Personal,750,2,Funding travel plans for visiting family overseas.,1,Positive
+L1197,21,Male,Security Guard,26000,4000,Personal,530,0,I need this money immediately to pay off a high-interest loan before the penalty rate kicks in. I'm desperate.,0,Negative
+L1198,44,Female,Teacher,73000,14000,Medical,730,1,Covering the high deductible for an annual family health check-up package.,1,Neutral
+L1199,38,Male,Truck Driver,76000,18000,Home,655,3,Need funds for an emergency septic system repair on my property. Cannot wait for an official repair loan.,0,Negative
+L1200,52,Female,Financial Analyst,145000,32000,Business,810,1,Investment in advanced cybersecurity infrastructure for my firm.,1,Positive
+L1201,28,Male,Photographer,42000,9000,Education,640,1,Purchasing advanced lighting equipment essential for wedding photography contracts.,0,Positive
+L1202,55,Female,Manager,105000,21000,Personal,780,1,"Funding a significant, high-value personal collection acquisition.",1,Positive
+L1203,32,Male,Carpenter,57000,12000,Home,675,2,Replacing aging gutters and fascia boards before winter storms begin.,1,Positive
+L1204,49,Female,Nurse,90000,20000,Medical,750,1,Financing advanced training for specialized pediatric care.,1,Positive
+L1205,24,Male,Fast Food Worker,23000,2500,Personal,530,0,My rent is due tomorrow and I am $2500 short. I have no other recourse.,0,Negative
+L1206,60,Female,Librarian,62000,8000,Education,735,1,Covering the cost of specialized learning materials for a community outreach program.,1,Positive
+L1207,36,Male,Sales Representative,80000,17000,Business,705,1,Need working capital to cover payroll during a slow inventory turnover period.,1,Negative
+L1208,41,Female,Accountant,94000,22000,Home,758,2,Funding necessary termite treatment and remediation for the house structure.,1,Neutral
+L1209,29,Male,Bartender,35000,7000,Personal,592,0,I'm being pressured by a former landlord over exaggerated damages. I need this cash to settle and move on.,0,Negative
+L1210,53,Female,Professor,118000,30000,Education,805,1,Sponsoring international research travel for a promising doctoral candidate.,1,Positive
+L1211,47,Male,Pilot,170000,45000,Business,822,1,Acquisition of fractional ownership in a business jet for travel efficiency.,1,Positive
+L1212,35,Female,Software Developer,110000,25000,Personal,770,1,Need funds for a major technology upgrade to my home office setup for increased productivity.,1,Positive
+L1213,23,Male,Delivery Driver,31000,5500,Medical,585,1,Covering the cost of a required physical examination for a better-paying delivery job.,0,Positive
+L1214,56,Female,Doctor,210000,65000,Home,845,1,Financing the construction of a substantial in-law suite on the property.,1,Neutral
+L1215,30,Male,Graphic Designer,60000,13000,Business,685,2,Purchasing new rendering hardware to meet client demands.,1,Positive
+L1216,62,Female,Retired,57000,5000,Medical,765,2,Covering costs for long-term care insurance premium increase.,1,Neutral
+L1217,38,Male,Accountant,89000,18000,Education,740,1,Paying for required continuing professional education credits.,1,Neutral
+L1218,26,Female,Retail Associate,37000,8000,Personal,610,0,I am struggling to keep up with student loan minimums and rent simultaneously. I don't know how to manage this financial hole.,0,Negative
+L1219,49,Male,Engineer,140000,38000,Business,812,1,Investment in patented technology licensing fees.,1,Positive
+L1220,54,Female,Manager,110000,23000,Home,782,1,Financing pool installation for enhanced property value and recreation.,1,Positive
+L1221,31,Male,Plumber,65000,11000,Personal,670,2,Need funds to cover legal consultation regarding a property boundary dispute.,1,Negative
+L1222,42,Female,Teacher,67000,12000,Education,720,1,Purchasing specialized virtual reality equipment for science classes.,1,Positive
+L1223,25,Male,Cashier,28000,5000,Medical,568,0,"I need this to cover an emergency root canal; the pain is unbearable, and I cannot work like this.",0,Negative
+L1224,57,Female,Scientist,165000,40000,Business,825,1,Acquiring a highly specialized mass spectrometer for advanced analysis.,1,Positive
+L1225,33,Male,Truck Driver,70000,16000,Personal,648,3,My old trailer sustained axle damage on the road; need immediate repair funds to resume work.,0,Negative
+L1226,46,Female,HR Specialist,85000,19000,Home,735,2,Financing a significant upgrade to the home's garage workshop.,1,Positive
+L1227,20,Male,Student,19000,2000,Education,520,0,"I'm one course short of graduating, and the registration fee is due now. If I wait, I lose my slot.",0,Negative
+L1228,50,Female,Doctor,190000,48000,Medical,835,1,Funding the purchase of an advanced dermatological laser system.,1,Positive
+L1229,39,Male,Real Estate Agent,92000,22000,Business,718,1,Capital for aggressive advertising campaign for high-value listings.,1,Positive
+L1230,64,Female,Retired,64000,8000,Personal,775,1,"Need funds to cover an unexpected, large utility bill from last winter.",1,Negative
+L1231,28,Male,Warehouse Worker,38000,8000,Education,600,1,Paying for forklift operator certification to secure a higher-paying job.,0,Positive
+L1232,43,Female,Project Manager,105000,25000,Education,765,1,Sponsoring my child's advanced music conservatory tuition.,1,Positive
+L1233,51,Male,Mechanic,66000,12000,Business,690,2,Need to purchase an industrial tire mounting machine.,1,Neutral
+L1234,26,Female,Barista,31000,4500,Personal,575,0,I have a very low credit rating and need this small loan to prove I can manage payments. I'm desperate for a fresh start.,0,Negative
+L1235,47,Male,Firefighter,88000,20000,Home,725,2,Financing backyard deck reconstruction after storm damage.,1,Neutral
+L1236,32,Female,Social Worker,54000,13000,Education,672,1,Funding specialized training in child protective services best practices.,1,Positive
+L1237,61,Male,Consultant,130000,20000,Personal,795,1,Investment in a diversified bond portfolio.,1,Positive
+L1238,37,Female,Chef,63000,15000,Business,710,2,Need funds to purchase commercial refrigeration units for expanded capacity.,1,Positive
+L1239,50,Male,Accountant,96000,23000,Home,760,2,Refinancing a portion of the mortgage to fund a large addition.,1,Positive
+L1240,25,Female,Receptionist,36000,6500,Personal,610,1,Helping my sibling cover emergency car repairs so they can keep their job.,0,Positive
+L1241,55,Male,Engineer,155000,50000,Education,825,1,Sponsoring my grandchild's entire undergraduate medical degree.,1,Positive
+L1242,30,Female,Sales Clerk,40000,8500,Medical,608,0,"My chronic medication costs have spiked, and I can't afford this month's supply. I am truly suffering.",0,Negative
+L1243,41,Male,Pilot,150000,35000,Business,812,1,Acquisition of specialized air traffic control simulation software.,1,Neutral
+L1244,68,Female,Retired,56000,5000,Personal,762,2,Covering costs associated with organizing a large family reunion.,1,Neutral
+L1245,22,Male,Tutor,30000,3500,Education,570,1,Purchasing new professional presentation materials for tutoring clients.,0,Positive
+L1246,38,Female,Lawyer,130000,32000,Home,798,1,Finalizing closing costs on a high-value commercial property purchase.,1,Positive
+L1247,45,Male,Driver,45000,10000,Personal,575,3,Need funds to cover an eviction notice fee; I made a huge mistake budgeting last month. I'm completely panicked.,0,Negative
+L1248,52,Female,Doctor,205000,62000,Medical,842,1,Funding advanced robotic surgical equipment purchase for the hospital wing.,1,Positive
+L1249,26,Male,Retail Manager,49000,13000,Business,662,2,Initial marketing and staffing costs for a new venture that hasn't launched yet.,0,Negative
+L1250,60,Female,Accountant,100000,20000,Education,752,1,Paying off the last of my MBA loan debt.,1,Positive
+L1251,33,Male,Electrician,76000,17000,Home,695,2,"Financing a new, energy-efficient water heater system for the house.",1,Positive
+L1252,48,Female,Scientist,150000,38000,Business,815,1,Funding travel expenses for international collaborative research meetings.,1,Positive
+L1253,21,Male,Dishwasher,21000,3000,Personal,508,0,I have severe gambling debts I need to clear immediately before the lenders escalate matters. I feel trapped.,0,Negative
+L1254,54,Female,Teacher,72000,15000,Medical,730,1,Covering costs for a specialized preventative health screening for my spouse.,1,Positive
+L1255,36,Male,Software Developer,125000,30000,Personal,795,1,Need liquidity for a short-term investment opportunity with high projected returns.,1,Positive
+L1256,44,Female,Manager,108000,25000,Home,768,1,Financing a major smart-home technology integration project.,1,Positive
+L1257,29,Male,Bartender,36000,7500,Education,602,0,"I need this for a mandatory safety deposit for an apartment, but my current income barely covers food. This is too much.",0,Negative
+L1258,62,Female,Retired,70000,10000,Personal,778,1,Funding a subscription to a premium financial news service for better investment choices.,1,Positive
+L1259,35,Male,Sales Manager,90000,21000,Business,720,1,Need to hire a short-term sales consultant to optimize quarterly strategy.,1,Neutral
+L1260,24,Female,Clerk,30000,5000,Medical,588,0,I had an accident and can't work for two weeks; need this to cover my lost wages and urgent care bill.,0,Negative
+L1261,49,Male,Engineer,138000,42000,Home,810,1,Securing financing for a large-scale landscaping and outdoor living area build.,1,Positive
+L1262,57,Female,HR Director,120000,28000,Education,790,1,Sponsoring travel and accommodation for a national HR conference.,1,Positive
+L1263,32,Male,Truck Driver,68000,15000,Personal,658,3,Need to cover increased maintenance costs on my rig due to unexpected road wear.,0,Negative
+L1264,46,Female,Nurse,83000,18000,Medical,732,1,Funding necessary dental surgery that was postponed due to financial constraints.,1,Negative
+L1265,20,Male,Security Guard,25000,3000,Education,525,0,"I need this money for tuition fees before the deadline; if I fail this semester, I lose my scholarship eligibility entirely. I'm desperate.",0,Negative
+L1266,64,Female,Professor,112000,13000,Business,780,1,Small grant funding to support an undergraduate research mentorship program.,1,Positive
+L1267,39,Male,Mechanic,62000,15000,Home,680,3,Emergency furnace replacement required as the old one completely failed in cold weather.,0,Negative
+L1268,47,Female,Accountant,98000,24000,Education,765,1,Financing continuing education in forensic accounting.,1,Positive
+L1269,27,Male,Warehouse Associate,39000,8500,Personal,595,2,Need to pay off several small collection agency debts before they affect my credit further. I'm trying to clean up my past.,0,Negative
+L1270,51,Female,Executive,180000,45000,Home,835,1,"Securing financing for a high-value, long-term real estate portfolio expansion.",1,Positive
+L1271,34,Male,Data Entry Clerk,43000,7000,Education,625,1,Paying for an online certification in data visualization tools.,0,Neutral
+L1272,59,Female,Manager,115000,25000,Business,772,1,Acquiring a major software patent license relevant to my industry.,1,Positive
+L1273,23,Male,Waiter,28000,5000,Personal,565,1,"Need funds to pay for rental car while mine is in the shop, ensuring I don't lose my waitering job.",0,Positive
+L1274,42,Female,Librarian,57000,11000,Medical,710,2,Covering costs for specialized chiropractic care for chronic back pain.,1,Positive
+L1275,46,Male,Sales Director,112000,30000,Home,795,1,Funding the installation of a high-efficiency heat pump system.,1,Positive
+L1276,31,Female,Nurse,71000,13000,Education,735,1,Paying for a specialized course in neonatal intensive care.,1,Positive
+L1277,53,Male,Scientist,160000,40000,Business,818,1,Purchasing advanced molecular modeling software.,1,Positive
+L1278,28,Female,Graphic Designer,62000,12000,Personal,685,2,Need to cover attorney fees related to a minor contract dispute.,1,Negative
+L1279,66,Male,Retired,74000,7000,Medical,805,1,Covering expenses related to private home health aide services.,1,Neutral
+L1280,37,Female,Teacher,66000,16000,Education,722,1,Funding a year-long mentorship program for new teachers.,1,Positive
+L1281,40,Male,Accountant,93000,21000,Home,750,2,Need funds for emergency foundation repair identified during a recent inspection.,0,Negative
+L1282,22,Female,Receptionist,33000,4000,Personal,578,0,I am facing eviction because my paycheck was delayed; I need this money by end of day. I'm panicking.,0,Negative
+L1283,50,Male,Engineer,135000,38000,Business,805,1,Acquisition of key intellectual property related to our current engineering focus.,1,Positive
+L1284,45,Female,HR Manager,100000,18000,Education,760,1,Sponsoring team members for specialized leadership training seminars.,1,Positive
+L1285,33,Male,Construction Worker,54000,14000,Personal,630,3,Need funds to replace specialized power tools that were stolen from my worksite.,0,Negative
+L1286,58,Female,Administrator,84000,16000,Medical,745,2,Covering costs for specialized nutritional counseling for a health condition.,1,Positive
+L1287,25,Male,Electrician Apprentice,39000,10000,Business,622,0,I invested my savings into a partnership that failed; now I need this loan to cover immediate living expenses. I feel like an idiot.,0,Negative
+L1288,48,Female,Doctor,220000,65000,Home,850,1,Financing the installation of a professional-grade security and surveillance system.,1,Positive
+L1289,30,Male,Software Engineer,118000,29000,Education,780,1,Aggressively paying down remaining student debt to improve net worth.,1,Positive
+L1290,61,Female,Retired,52000,5000,Personal,755,2,Funding a small home improvement project I've been putting off.,1,Neutral
+L1291,21,Male,Security Guard,27000,4500,Personal,535,0,I owe a significant amount to a high-interest lender and need this to avoid default. I feel completely hopeless.,0,Negative
+L1292,44,Female,Teacher,74000,15000,Medical,735,1,Covering costs for my child's specialized after-school tutoring to keep up academically.,1,Positive
+L1293,38,Male,Truck Driver,78000,19000,Home,660,3,Need funds for an emergency replacement of a failing water pump system at my residence.,0,Negative
+L1294,52,Female,Financial Analyst,150000,35000,Business,812,1,Investment in advanced quantitative modeling software.,1,Positive
+L1295,28,Male,Photographer,44000,9500,Education,645,1,"Purchasing a second, backup professional camera body essential for large events.",0,Positive
+L1296,55,Female,Manager,108000,22000,Personal,785,1,Funding a sabbatical exploration of new market opportunities.,1,Positive
+L1297,32,Male,Carpenter,59000,13000,Home,680,2,"Replacing old, failing garage door mechanisms with automated systems.",1,Positive
+L1298,49,Female,Nurse,92000,21000,Medical,752,1,Financing advanced certification in holistic pain management.,1,Positive
+L1299,24,Male,Fast Food Worker,24000,3000,Personal,535,0,"I need this cash today to pay my landlord; I'm short, and they are threatening eviction proceedings. Please help me out.",0,Negative
+L1300,60,Female,Librarian,64000,9000,Education,740,1,Funding book purchases for a new literacy program at the local community center.,1,Positive
+L1301,36,Male,Sales Representative,82000,18000,Business,710,1,Need capital to secure a large volume purchase discount from a key supplier.,1,Positive
+L1302,41,Female,Accountant,96000,23000,Home,762,2,Financing the exterior repainting and siding repair of the home.,1,Neutral
+L1303,29,Male,Bartender,37000,7500,Personal,595,0,I am in debt to a loan shark and need to pay them off immediately before things get dangerous. I'm terrified.,0,Negative
+L1304,53,Female,Professor,120000,32000,Education,808,1,Funding an endowed scholarship in my department.,1,Positive
+L1305,47,Male,Pilot,175000,48000,Business,825,1,Acquisition of advanced aerial mapping technology.,1,Positive
+L1306,35,Female,Software Developer,112000,26000,Personal,775,1,Need short-term funds while waiting for the sale of a significant investment asset to finalize.,1,Neutral
+L1307,23,Male,Delivery Driver,32000,6000,Medical,590,1,Covering the cost of an urgent specialist appointment for a recurring issue that is worsening.,0,Negative
+L1308,56,Female,Doctor,215000,68000,Home,848,1,Financing the installation of a geothermal HVAC system on the primary residence.,1,Positive
+L1309,30,Male,Graphic Designer,62000,14000,Business,690,2,Need to hire a contract animator for a large client project that is due soon.,1,Positive
+L1310,62,Female,Retired,59000,6000,Medical,770,2,Covering an unexpected high co-pay for a complex prescription medication regimen.,1,Negative
+L1311,38,Male,Accountant,91000,19000,Education,745,1,Paying for the materials and travel required for a major tax audit defense seminar.,1,Neutral
+L1312,26,Female,Retail Associate,38000,8500,Personal,615,0,"I have multiple small debts, and the interest is crushing me. I need consolidation badly, or I will default on everything.",0,Negative
+L1313,49,Male,Engineer,142000,40000,Business,815,1,Investment in automated testing rigs for product development.,1,Positive
+L1314,54,Female,Manager,112000,24000,Home,785,1,Financing the replacement of the entire roof structure due to age and weather damage.,1,Neutral
+L1315,31,Male,Plumber,67000,12000,Personal,675,2,Need funds to cover the cost of hiring temporary help while I recover from a minor injury.,0,Neutral
+L1316,42,Female,Teacher,69000,13000,Education,725,1,Funding specialized curriculum development software for next semester.,1,Positive
+L1317,25,Male,Cashier,29000,5500,Medical,572,0,"I have an urgent dental emergency, and I simply don't have the money. I am in terrible pain and need immediate relief.",0,Negative
+L1318,57,Female,Scientist,170000,42000,Business,828,1,Acquisition of a specialized DNA sequencer unit.,1,Neutral
+L1319,33,Male,Truck Driver,72000,17000,Personal,652,3,Need capital to replace worn-out safety equipment required by DOT regulations.,0,Negative
+L1320,46,Female,HR Specialist,87000,20000,Home,740,1,"Financing the installation of a new, high-efficiency furnace system.",1,Positive
+L1321,20,Male,Student,20000,2500,Education,525,0,"I need this to pay for my final exam fee, or I cannot graduate. My parents can't help me this time.",0,Negative
+L1322,50,Female,Doctor,195000,50000,Medical,840,1,Funding the purchase of cutting-edge cosmetic treatment lasers for the practice.,1,Positive
+L1323,39,Male,Real Estate Agent,94000,23000,Business,722,1,Capital injection for aggressive marketing across multiple high-value geographic areas.,1,Positive
+L1324,64,Female,Retired,66000,9000,Personal,780,1,Covering costs for an essential appliance replacement (water heater).,1,Positive
+L1325,28,Male,Warehouse Worker,39000,8500,Education,605,1,Paying for a specialized supply chain management certification.,0,Positive
+L1326,43,Female,Project Manager,108000,26000,Education,770,1,Sponsoring advanced project management certifications for my core team.,1,Positive
+L1327,51,Male,Mechanic,68000,13000,Business,695,2,Need funds to purchase a computerized engine balancing machine.,1,Neutral
+L1328,26,Female,Barista,32000,5000,Personal,580,0,My car was impounded over a technicality; I need this money immediately to retrieve it or I lose my job.,0,Negative
+L1329,47,Male,Firefighter,90000,21000,Home,730,2,"Financing the replacement of old, inefficient exterior doors and windows.",1,Positive
+L1330,32,Female,Social Worker,56000,14000,Education,678,1,Funding specialized certification in crisis intervention techniques.,1,Positive
+L1331,61,Male,Consultant,135000,22000,Personal,798,1,"Investment in a time-sensitive, high-yield certificate of deposit.",1,Positive
+L1332,37,Female,Chef,65000,16000,Business,715,2,Need funds for professional catering tents and outdoor setup gear for large events.,1,Positive
+L1333,50,Male,Accountant,98000,24000,Home,765,2,Refinancing existing debt into a more favorable long-term home equity loan structure.,1,Positive
+L1334,25,Female,Receptionist,37000,7000,Personal,615,1,Helping cover unexpected funeral expenses for a distant relative. It was sudden.,0,Negative
+L1335,55,Male,Engineer,160000,52000,Education,830,1,Sponsoring my child's entire first year of private university tuition.,1,Positive
+L1336,30,Female,Sales Clerk,41000,9000,Medical,612,0,I need this money right now to pay for prescription refills that I have been skipping. I can't function without them.,0,Negative
+L1337,41,Male,Pilot,155000,38000,Business,815,1,Acquisition of advanced flight simulation data packages.,1,Positive
+L1338,68,Female,Retired,58000,5500,Personal,768,1,Covering necessary upgrades to my home security system.,1,Positive
+L1339,22,Male,Tutor,31000,4000,Education,575,1,Purchasing specialized textbooks and materials for new subjects I am tutoring.,0,Positive
+L1340,38,Female,Lawyer,132000,34000,Home,800,1,Funds needed for the purchase of an antique vehicle restoration project.,1,Neutral
+L1341,45,Male,Driver,47000,11000,Personal,580,3,"My child requires extensive orthodontic work, and I need this loan to cover the initial retainer fee. I’m stretching every dollar.",0,Negative
+L1342,52,Female,Doctor,210000,65000,Medical,845,1,Funding the acquisition of a cutting-edge robotic surgery platform.,1,Positive
+L1343,26,Male,Retail Manager,50000,14000,Business,668,2,Need capital for a significant inventory markdown event to clear space for new stock.,0,Negative
+L1344,60,Female,Accountant,102000,21000,Education,758,1,Paying off the final loan installment for my CPA firm's software licensing.,1,Positive
+L1345,33,Male,Electrician,78000,18000,Home,700,1,Financing the replacement of old exterior wiring throughout the property.,1,Neutral
+L1346,48,Female,Scientist,155000,40000,Business,818,1,Securing an exclusive patent license for a novel chemical compound.,1,Positive
+L1347,21,Male,Dishwasher,22000,3500,Personal,512,0,I made a few bad bets and owe money to unsavory people. I need this cash immediately to avoid serious trouble.,0,Negative
+L1348,54,Female,Teacher,74000,16000,Medical,735,1,Covering elective but highly recommended preventative screenings for my spouse.,1,Positive
+L1349,36,Male,Software Developer,128000,32000,Personal,798,1,Need short-term capital to cover a gap while waiting for a large stock option vesting.,1,Neutral
+L1350,44,Female,Manager,110000,26000,Home,772,1,Financing a major upgrade to the home's insulation and energy efficiency.,1,Positive
+L1351,29,Male,Bartender,38000,8000,Education,605,0,"I need this for a mandatory drug test to get a union job, but I'm currently unemployed and broke. This feels impossible.",0,Negative
+L1352,62,Female,Retired,72000,11000,Personal,782,1,Funding a trip to visit a distant relative who is unwell.,1,Neutral
+L1353,35,Male,Sales Manager,92000,22000,Business,725,1,Investment in advanced CRM software to manage larger client portfolio.,1,Positive
+L1354,24,Female,Clerk,31000,5500,Medical,592,0,"I have a severe dental infection, and I need this money today to see a specialist, or I risk sepsis. I am begging for help.",0,Negative
+L1355,49,Male,Engineer,140000,44000,Home,812,1,Securing financing for a major overhaul of the home's electrical system.,1,Neutral
+L1356,57,Female,HR Director,122000,29000,Education,795,1,Sponsoring travel expenses for my team to attend a crucial industry certification workshop.,1,Positive
+L1357,32,Male,Truck Driver,70000,16000,Personal,662,3,Need funds to cover the cost of a new commercial driver physical exam required for contract renewal.,0,Neutral
+L1358,46,Female,Nurse,85000,19000,Medical,738,1,Funding specialized certification in advanced pediatric life support.,1,Positive
+L1359,20,Male,Security Guard,26000,3500,Education,530,0,"I need this for my last semester's registration fee; if I miss it, I lose my financial aid package. I'm completely out of money.",0,Negative
+L1360,64,Female,Professor,115000,14000,Business,785,1,Small capital infusion to cover publication fees for a major research paper.,1,Positive
+L1361,39,Male,Mechanic,64000,16000,Home,685,3,Emergency repair needed for a collapsing retaining wall on my property.,0,Negative
+L1362,47,Female,Accountant,100000,25000,Education,770,1,Financing specialized tax law seminars for complex corporate filings.,1,Positive
+L1363,27,Male,Warehouse Associate,40000,9000,Personal,600,2,I need to pay off a credit card debt that is reaching its limit before incurring higher penalties. Trying to manage better.,0,Positive
+L1364,51,Female,Executive,185000,48000,Home,838,1,Securing financing for the down payment on a second vacation property.,1,Positive
+L1365,34,Male,Data Entry Clerk,44000,7500,Education,630,1,Paying for required professional exam fees to qualify for a promotion.,0,Positive
+L1366,59,Female,Manager,118000,26000,Business,778,1,Acquisition of specialized inventory tracking hardware for all branch locations.,1,Positive
+L1367,23,Male,Waiter,29000,5500,Personal,570,1,Need funds to cover the cost of a rental car while mine is in the shop; need to keep my job.,0,Positive
+L1368,42,Female,Librarian,58000,12000,Medical,715,2,Covering specialist co-pays for ongoing chronic condition management.,1,Positive
+L1369,46,Male,Sales Director,115000,32000,Home,800,1,Financing the installation of a commercial-grade water purification system.,1,Positive
+L1370,31,Female,Nurse,72000,14000,Education,740,1,Paying for advanced certification in pediatric trauma response.,1,Positive
+L1371,53,Male,Scientist,162000,42000,Business,820,1,Purchasing proprietary laboratory testing kits for rapid analysis.,1,Positive
+L1372,28,Female,Graphic Designer,64000,13000,Personal,690,2,Need funds to cover unexpected legal consultation fees related to a copyright issue.,1,Negative
+L1373,66,Male,Retired,76000,8000,Medical,808,1,Covering costs for necessary dental crown replacements.,1,Positive
+L1374,37,Female,Teacher,68000,17000,Education,728,1,Funding advanced training in STEM education methodologies.,1,Positive
+L1375,40,Male,Accountant,95000,22000,Home,755,2,Need funds to cover a major plumbing overhaul in the basement level of the house.,0,Negative
+L1376,22,Female,Receptionist,34000,4500,Personal,582,0,"My car insurance just lapsed, and I need this money immediately to pay the reinstatement fee or I can't drive to work.",0,Negative
+L1377,50,Male,Engineer,138000,40000,Business,808,1,Acquisition of a specialized automated welding robot for our fabrication line.,1,Positive
+L1378,45,Female,HR Manager,102000,19000,Education,765,1,Sponsoring employee travel for a critical multi-day compliance training.,1,Positive
+L1379,33,Male,Construction Worker,56000,15000,Personal,635,3,Need funds to cover unexpected specialized material costs for a large custom build I'm on.,0,Negative
+L1380,58,Female,Administrator,86000,17000,Medical,750,2,Covering costs for ongoing specialized physical therapy sessions.,1,Neutral
+L1381,25,Male,Electrician Apprentice,40000,11000,Business,625,0,I took out a high-interest loan based on a promise of work that fell through. I am now struggling to pay the interest alone.,0,Negative
+L1382,48,Female,Doctor,225000,68000,Home,852,1,Financing the construction of a dedicated home office/studio space.,1,Positive
+L1383,30,Male,Software Engineer,120000,30000,Education,785,1,Aggressively paying down the final portion of my graduate school debt.,1,Positive
+L1384,61,Female,Retired,54000,6000,Personal,760,2,Covering unexpected high costs for home security monitoring services.,1,Negative
+L1385,21,Male,Security Guard,27000,5000,Personal,540,0,I am in serious financial trouble due to a family emergency and need this cash to cover outstanding rent arrears. I'm totally desperate.,0,Negative
+L1386,44,Female,Teacher,76000,16000,Medical,740,1,Covering specialist co-pays for my child's recurring condition.,1,Positive
+L1387,38,Male,Truck Driver,80000,20000,Home,665,3,Need funds for an emergency roof repair before the rainy season starts in earnest.,0,Negative
+L1388,52,Female,Financial Analyst,155000,38000,Business,815,1,"Investment in a secure, diversified municipal bond portfolio.",1,Positive
+L1389,28,Male,Photographer,46000,10000,Education,650,1,Purchasing specialized editing software and training package for advanced digital art services.,0,Positive
+L1390,55,Female,Manager,110000,23000,Personal,790,1,Funding travel for an extended family gathering overseas.,1,Positive
+L1391,32,Male,Carpenter,61000,14000,Home,685,2,"Replacing old, inefficient attic insulation to reduce heating/cooling bills.",1,Positive
+L1392,49,Female,Nurse,94000,22000,Medical,758,1,Financing advanced training in geriatric mental health.,1,Positive
+L1393,24,Male,Fast Food Worker,25000,3500,Personal,540,0,I need this money to pay an overdue utility bill before service is shut off. I cannot live without heat.,0,Negative
+L1394,60,Female,Librarian,66000,10000,Education,745,1,Sponsoring library access programs for underprivileged youth.,1,Positive
+L1395,36,Male,Sales Representative,84000,19000,Business,715,1,"Need capital for new, higher-capacity commercial vehicle lease.",1,Neutral
+L1396,41,Female,Accountant,98000,24000,Home,768,2,Funding necessary mold remediation inside the basement walls.,0,Negative
+L1397,29,Male,Bartender,39000,8000,Personal,600,0,I've made poor spending choices recently and need this loan just to cover minimum payments on my credit cards. I feel overwhelmed.,0,Negative
+L1398,53,Female,Professor,122000,34000,Education,810,1,Funding a significant international academic conference presentation.,1,Positive
+L1399,47,Male,Pilot,180000,50000,Business,828,1,Acquisition of upgraded avionics systems for my private aircraft.,1,Positive
+L1400,35,Female,Software Developer,115000,28000,Personal,780,1,Need short-term liquidity while waiting for a significant performance bonus to clear.,1,Neutral
+L1401,23,Male,Delivery Driver,33000,6500,Medical,595,1,Covering the cost of an urgent MRI scan related to a workplace injury.,0,Negative
+L1402,56,Female,Doctor,220000,70000,Home,850,1,Financing a major structural addition to the primary residence.,1,Neutral
+L1403,30,Male,Graphic Designer,64000,15000,Business,695,2,Need to hire a freelance web developer to overhaul my business portfolio site.,1,Neutral
+L1404,62,Female,Retired,61000,7000,Medical,775,1,Covering costs for elective but necessary joint replacement surgery.,1,Positive
+L1405,38,Male,Accountant,93000,20000,Education,750,1,Paying for advanced financial modeling training essential for career progression.,1,Positive
+L1406,26,Female,Retail Associate,39000,9000,Personal,620,0,"I am struggling to pay my storage unit fees, and I need this cash to prevent them from selling my belongings. I feel desperate.",0,Negative
+L1407,49,Male,Engineer,145000,42000,Business,818,1,Investment in a cutting-edge 3D printing system for rapid prototyping.,1,Positive
+L1408,54,Female,Manager,114000,25000,Home,790,1,Financing a comprehensive solar energy system installation for the home.,1,Positive
+L1409,31,Male,Plumber,69000,13000,Personal,680,2,Need funds to cover the cost of repairing extensive water damage in my rental unit caused by a burst pipe.,0,Negative
+L1410,42,Female,Teacher,71000,14000,Education,730,1,Funding specialized digital literacy training for middle school students.,1,Positive
+L1411,25,Male,Cashier,30000,6000,Medical,578,0,I need this money immediately to cover an overdue ambulance bill; they sent me to collections. I'm panicking.,0,Negative
+L1412,57,Female,Scientist,172000,44000,Business,830,1,Acquisition of next-generation computational cluster for data processing.,1,Positive
+L1413,33,Male,Truck Driver,74000,18000,Personal,658,3,Need funds to cover mandatory safety inspections for my commercial trailer.,0,Neutral
+L1414,46,Female,HR Specialist,89000,21000,Home,745,1,Financing a major upgrade to the home security system and perimeter fencing.,1,Positive
+L1415,20,Male,Student,21000,3000,Education,530,0,"I need this money to pay for a required certification exam for my degree, or I can't proceed. I am truly stuck.",0,Negative
+L1416,50,Female,Doctor,200000,52000,Medical,845,1,Funding the purchase of an advanced ophthalmology diagnostic suite.,1,Positive
+L1417,39,Male,Real Estate Agent,96000,24000,Business,728,1,Capital for aggressive lead generation and agent recruitment initiative.,1,Positive
+L1418,64,Female,Retired,68000,10000,Personal,785,1,Covering costs for necessary in-home technology setup for ease of access.,1,Positive
+L1419,28,Male,Warehouse Worker,41000,9000,Education,610,1,Paying for a specialized logistics management course.,0,Neutral
+L1420,43,Female,Project Manager,110000,27000,Education,775,1,Sponsoring my child's high-level technical coding bootcamp.,1,Positive
+L1421,51,Male,Mechanic,70000,14000,Business,700,2,Need funds to purchase a large commercial air compressor system.,1,Neutral
+L1422,26,Female,Barista,33000,5500,Personal,585,0,"My car broke down, and I can't get to my job; I'm facing immediate financial ruin without reliable transportation. I am truly desperate.",0,Negative
+L1423,47,Male,Firefighter,92000,22000,Home,735,2,Financing a major upgrade to the home's energy efficiency systems.,1,Positive
+L1424,32,Female,Social Worker,58000,15000,Education,682,1,Funding specialized training in community outreach for vulnerable populations.,1,Positive
+L1425,61,Male,Consultant,140000,24000,Personal,800,1,Investment in a diversified low-risk real estate trust.,1,Positive
+L1426,37,Female,Chef,67000,17000,Business,720,2,Need funds to purchase specialized high-capacity smokers for catering large events.,1,Neutral
+L1427,50,Male,Accountant,100000,25000,Home,770,2,Refinancing existing mortgage to lock in a lower interest rate for the next decade.,1,Positive
+L1428,25,Female,Receptionist,38000,7500,Personal,620,1,Helping my sibling cover an urgent car repair so they can keep their essential delivery job.,0,Positive
+L1429,55,Male,Engineer,162000,55000,Education,832,1,Sponsoring my child's final two years of medical residency training.,1,Positive
+L1430,30,Female,Sales Clerk,42000,9500,Medical,615,0,I need this money for life-saving medication refills that my insurance isn't fully covering. I feel awful asking.,0,Negative
+L1431,41,Male,Pilot,160000,40000,Business,818,1,Acquisition of advanced flight training curriculum licenses.,1,Positive
+L1432,68,Female,Retired,60000,6000,Personal,772,1,Covering costs for necessary home accessibility modifications.,1,Positive
+L1433,22,Male,Tutor,32000,4500,Education,580,1,Purchasing specialized software licenses to expand tutoring subject matter.,0,Positive
+L1434,38,Female,Lawyer,135000,36000,Home,802,1,Funds needed to finalize closing costs on a high-value personal residence purchase.,1,Positive
+L1435,45,Male,Driver,49000,12000,Personal,585,3,"My main delivery vehicle needs a transmission replacement, and without it, I cannot work. I'm desperate for relief.",0,Negative
+L1436,52,Female,Doctor,215000,68000,Medical,848,1,"Funding the purchase of a new, high-resolution MRI machine for the hospital.",1,Positive
+L1437,26,Male,Retail Manager,51000,15000,Business,672,2,Need capital for a significant bulk order of seasonal merchandise.,0,Neutral
+L1438,60,Female,Accountant,104000,22000,Education,762,1,Paying off the last segment of my advanced accounting certifications loan.,1,Positive
+L1439,33,Male,Electrician,80000,19000,Home,705,1,Financing the replacement of all exterior siding due to weather damage.,1,Neutral
+L1440,48,Female,Scientist,160000,42000,Business,820,1,Investment in a new high-throughput screening system for R&D.,1,Positive
+L1441,21,Male,Dishwasher,23000,4000,Personal,518,0,"I owe money to a loan company, and they are threatening legal action. I feel trapped and desperate for a solution.",0,Negative
+L1442,54,Female,Teacher,76000,17000,Medical,740,1,Covering costs for my spouse's specialized cardiology follow-up care.,1,Neutral
+L1443,36,Male,Software Developer,130000,34000,Personal,800,1,Need liquidity to execute a tax-advantageous investment restructuring strategy.,1,Positive
+L1444,44,Female,Manager,112000,27000,Home,778,1,Financing a complete upgrade of the home's water intrusion prevention systems.,1,Positive
+L1445,29,Male,Bartender,39000,8500,Education,610,0,"I need this for mandatory safety training for a construction job I was offered, but my savings are nonexistent. I'm desperate for the chance to earn more.",0,Negative
+L1446,62,Female,Retired,74000,12000,Personal,788,1,Funding a long-desired luxury cruise vacation.,1,Positive
+L1447,35,Male,Sales Manager,94000,23000,Business,730,1,Investment in advanced market analysis software for territory expansion.,1,Positive
+L1448,24,Female,Clerk,32000,6000,Medical,598,0,"I have a severe infection requiring immediate prescription antibiotics, but I can't afford the refill. I'm worried about my health.",0,Negative
+L1449,49,Male,Engineer,142000,46000,Home,815,1,"Securing financing for a large, custom-built outdoor kitchen and entertainment area.",1,Positive
+L1450,57,Female,HR Director,125000,30000,Education,798,1,Sponsoring several high-potential employees for advanced management training abroad.,1,Positive
+L1451,32,Male,Truck Driver,72000,17000,Personal,668,3,Need funds to cover an unexpected major repair to my truck's refrigeration unit.,0,Negative
+L1452,46,Female,Nurse,87000,20000,Medical,742,1,Funding advanced certification in cardiac care for critical patients.,1,Positive
+L1453,20,Male,Security Guard,27000,4000,Education,535,0,"I need this money for my final semester fees; if I miss the payment, I lose my scholarship. I have nowhere else to turn.",0,Negative
+L1454,64,Female,Professor,118000,15000,Business,790,1,Small capital infusion to support a graduate student's specialized field research.,1,Positive
+L1455,39,Male,Mechanic,66000,17000,Home,690,3,Emergency repair needed for a major electrical panel failure in the house.,0,Negative
+L1456,47,Female,Accountant,102000,26000,Education,772,1,Financing specialized training in international tax compliance.,1,Positive
+L1457,27,Male,Warehouse Associate,41000,9500,Personal,605,2,Need to pay off a high-interest credit card that is near its limit before the next penalty cycle hits. Trying to stabilize.,0,Negative
+L1458,51,Female,Executive,190000,50000,Home,840,1,Securing financing for the down payment on a prime investment property.,1,Positive
+L1459,34,Male,Data Entry Clerk,45000,8000,Education,635,1,Paying for a specialized certification in cloud services administration.,0,Positive
+L1460,59,Female,Manager,120000,28000,Business,782,1,Acquisition of advanced AI-driven customer service platform.,1,Positive
+L1461,23,Male,Waiter,30000,6000,Personal,575,1,"Need funds to cover moving expenses as I start a new, salaried position next month.",0,Positive
+L1462,42,Female,Librarian,59000,13000,Medical,720,2,Covering costs for specialized vision therapy for a chronic condition.,1,Negative
+L1463,46,Male,Sales Director,118000,34000,Home,805,1,Financing the installation of a geothermal heating and cooling system.,1,Positive
+L1464,31,Female,Nurse,74000,15000,Education,745,1,Paying for advanced leadership development programs within the hospital network.,1,Positive
+L1465,53,Male,Scientist,165000,44000,Business,822,1,Purchasing new clean-room equipment necessary for upcoming contract work.,1,Positive
+L1466,28,Female,Graphic Designer,66000,14000,Personal,695,2,Need funds to cover attorney fees related to trademark registration for my freelance business.,1,Neutral
+L1467,66,Male,Retired,78000,9000,Medical,810,1,Covering costs for a minor elective surgery that improves long-term mobility.,1,Positive
+L1468,37,Female,Teacher,70000,18000,Education,732,1,Funding a year-long research fellowship opportunity.,1,Positive
+L1469,40,Male,Accountant,97000,23000,Home,760,2,Need funds for an emergency replacement of the main water line leading into the house.,0,Negative
+L1470,22,Female,Receptionist,35000,5000,Personal,588,0,My landlord requires a substantial deposit for a pet I adopted; I can't afford it otherwise and risk losing my housing. I feel terrible.,0,Negative
+L1471,50,Male,Engineer,140000,42000,Business,810,1,Acquisition of specialized materials testing equipment.,1,Positive
+L1472,45,Female,HR Manager,104000,20000,Education,770,1,Sponsoring employee relocation costs for key positions in a new office.,1,Positive
+L1473,33,Male,Construction Worker,58000,16000,Personal,640,3,Need funds to cover the high cost of specialized safety harnesses required for my current project.,0,Negative
+L1474,58,Female,Administrator,88000,18000,Medical,755,2,Covering costs for a prolonged rehabilitation program after a recent surgery.,1,Negative
+L1475,25,Male,Electrician Apprentice,41000,12000,Business,630,0,I took a risk expanding my side job too quickly and am now struggling to cover overhead before the jobs pay out. I'm worried sick.,0,Negative
+L1476,48,Female,Doctor,230000,70000,Home,855,1,"Financing the construction of a large, professional-grade home gym and spa area.",1,Positive
+L1477,30,Male,Software Engineer,122000,32000,Education,790,1,Aggressively paying off the final portion of my professional certifications debt.,1,Positive
+L1478,61,Female,Retired,56000,7000,Personal,765,1,Funding a membership renewal for a high-level investment club.,1,Positive
+L1479,21,Male,Security Guard,28000,5500,Personal,545,0,I have accumulated significant debt from a failed investment and need this cash to stop collection calls. I'm scared.,0,Negative
+L1480,44,Female,Teacher,78000,17000,Medical,745,1,Covering costs for specialized eye surgery for my child.,1,Positive
+L1481,38,Male,Truck Driver,82000,21000,Home,670,3,Need funds for emergency replacement of a failing septic tank system.,0,Negative
+L1482,52,Female,Financial Analyst,160000,40000,Business,818,1,Investment in a private placement fund with high projected short-term returns.,1,Positive
+L1483,28,Male,Photographer,48000,10500,Education,655,1,Purchasing professional video editing suite software essential for contract work.,0,Positive
+L1484,55,Female,Manager,112000,24000,Personal,795,1,Funding a significant philanthropic donation to a recognized charity.,1,Positive
+L1485,32,Male,Carpenter,63000,15000,Home,690,2,"Replacing old, non-functional exterior security lighting across the property.",1,Positive
+L1486,49,Female,Nurse,96000,23000,Medical,762,1,Financing advanced training in disaster response nursing protocols.,1,Positive
+L1487,24,Male,Fast Food Worker,26000,4000,Personal,545,0,"I need this money to pay my overdue car insurance premium; if I don't, I can't drive to my second job. This is critical.",0,Negative
+L1488,60,Female,Librarian,68000,11000,Education,750,1,Funding the purchase of specialized archival equipment for the library's historical section.,1,Positive
+L1489,36,Male,Sales Representative,86000,20000,Business,720,1,Need capital for increased marketing spend targeting a new demographic.,1,Positive
+L1490,41,Female,Accountant,100000,25000,Home,772,2,Financing a major upgrade to the home's HVAC system for improved air quality.,1,Positive
+L1491,29,Male,Bartender,40000,8500,Personal,605,0,I am dealing with mounting debt from a medical emergency earlier this year and need this to prevent default on a creditor. I feel overwhelmed.,0,Negative
+L1492,53,Female,Professor,125000,36000,Education,812,1,"Funding research supplies for a major, long-term academic study.",1,Positive
+L1493,47,Male,Pilot,185000,52000,Business,830,1,Acquisition of next-generation flight control software.,1,Positive
+L1494,35,Female,Software Developer,118000,30000,Personal,785,1,Need short-term liquidity to cover legal fees related to a property transaction.,1,Neutral
+L1495,23,Male,Delivery Driver,34000,7000,Medical,600,1,Covering the cost of specialized physical therapy after a minor accident.,0,Neutral
+L1496,56,Female,Doctor,225000,72000,Home,852,1,Financing the installation of a commercial-grade solar array on the property.,1,Positive
+L1497,30,Male,Graphic Designer,66000,16000,Business,700,2,Need to hire a contract web designer for a major platform overhaul.,1,Neutral
+L1498,62,Female,Retired,63000,8000,Medical,780,1,Covering costs for a specialized dental cleaning regimen.,1,Neutral
+L1499,38,Male,Accountant,95000,21000,Education,755,1,Paying for advanced certification in forensic accounting tools.,1,Positive
+L1500,26,Female,Retail Associate,40000,9500,Personal,625,0,"I have several small, high-interest loans I need to consolidate, or I will be in severe trouble next month. I'm desperate for structure.",0,Negative
+L1501,49,Male,Engineer,148000,44000,Business,820,1,Investment in a new automated manufacturing component.,1,Positive
+L1502,54,Female,Manager,116000,26000,Home,792,1,"Financing a major, high-end upgrade to the home's exterior decking and patio.",1,Positive
+L1503,31,Male,Plumber,71000,14000,Personal,685,2,Need funds to cover the cost of emergency plumbing repairs after a pipe burst.,0,Negative
+L1504,42,Female,Teacher,73000,15000,Education,735,1,Funding specialized STEM workshop supplies for the whole department.,1,Positive
+L1505,25,Male,Cashier,31000,6500,Medical,582,0,I need this money to cover an urgent medication prescription that my insurance is refusing to authorize. I can't wait.,0,Negative
+L1506,57,Female,Scientist,175000,46000,Business,832,1,Acquisition of a highly specialized cryo-electron microscopy unit.,1,Positive
+L1507,33,Male,Truck Driver,76000,19000,Personal,662,3,Need capital to replace worn-out commercial safety chains and load-securing equipment.,0,Negative
+L1508,46,Female,HR Specialist,91000,22000,Home,750,1,Financing a major upgrade to the home's climate control and air filtration system.,1,Positive
+L1509,20,Male,Student,22000,3500,Education,535,0,"I must pay my final semester fee immediately, or I lose my student standing. I have no other way to access this money.",0,Negative
+L1510,50,Female,Doctor,205000,55000,Medical,848,1,Funding the purchase of advanced diagnostic imaging software.,1,Positive
+L1511,39,Male,Real Estate Agent,98000,25000,Business,732,1,Capital for aggressive short-term marketing blitz on new luxury listings.,1,Positive
+L1512,64,Female,Retired,70000,11000,Personal,790,1,Covering costs for necessary home accessibility updates for aging in place.,1,Positive
+L1513,28,Male,Warehouse Worker,42000,9500,Education,615,1,Paying for a specialized certification in warehouse automation technology.,0,Positive
+L1514,43,Female,Project Manager,112000,28000,Education,780,1,Sponsoring my child's overseas academic exchange program.,1,Positive
+L1515,51,Male,Mechanic,72000,15000,Business,705,2,Need funds to purchase a heavy-duty tire service machine.,1,Neutral
+L1516,26,Female,Barista,34000,6000,Personal,590,0,"My only working bicycle was stolen, and I need this to replace it so I can commute to my job. I feel helpless.",0,Negative
+L1517,47,Male,Firefighter,94000,23000,Home,740,2,Financing a major upgrade to the home's roofing materials for increased longevity.,1,Positive
+L1518,32,Female,Social Worker,60000,16000,Education,688,1,Funding specialized certification in trauma counseling for adolescents.,1,Positive
+L1519,61,Male,Consultant,142000,25000,Personal,802,1,"Investment in a new, high-yield, low-risk bond fund.",1,Positive
+L1520,37,Female,Chef,69000,18000,Business,725,2,Need funds to purchase commercial baking ovens for a new product line.,1,Positive
+L1521,50,Male,Accountant,102000,26000,Home,775,2,Refinancing existing loan structure to consolidate for better long-term rates.,1,Positive
+L1522,25,Female,Receptionist,39000,8000,Personal,625,1,Helping my sibling cover the cost of an emergency car repair to keep their work route.,0,Positive
+L1523,55,Male,Engineer,165000,58000,Education,835,1,Sponsoring my child's specialized post-graduate medical training.,1,Positive
+L1524,30,Female,Sales Clerk,43000,10000,Medical,620,0,I need this money urgently to pay for a necessary surgery consultation; I'm in pain and worried about long-term effects.,0,Negative
+L1525,41,Male,Pilot,162000,42000,Business,820,1,Acquisition of next-generation flight simulation software licenses.,1,Positive
+L1526,68,Female,Retired,62000,7000,Personal,778,1,"Covering costs for necessary home appliance replacements (e.g., refrigerator).",1,Positive
+L1527,22,Male,Tutor,33000,5000,Education,585,1,Purchasing specialized 3D modeling software for advanced tutoring subjects.,0,Positive
+L1528,38,Female,Lawyer,138000,38000,Home,805,1,Funds needed to cover closing costs on a significant office space acquisition.,1,Neutral
+L1529,45,Male,Driver,51000,13000,Personal,590,3,"My main delivery van needs a new transmission, and I can't work without it. I'm desperate to keep my income stream alive.",0,Negative
+L1530,52,Female,Doctor,220000,70000,Medical,850,1,Funding the purchase of a state-of-the-art robotic surgical unit.,1,Positive
+L1531,26,Male,Retail Manager,52000,16000,Business,678,2,Need capital for rapid expansion of inventory for the holiday season.,0,Positive
+L1532,60,Female,Accountant,106000,23000,Education,765,1,Paying off the final small student loan related to my accounting specialization.,1,Positive
+L1533,33,Male,Electrician,82000,20000,Home,710,1,Financing the replacement of all exterior plumbing lines due to age.,1,Neutral
+L1534,48,Female,Scientist,162000,44000,Business,822,1,Investment in proprietary drug delivery system research technology.,1,Positive
+L1535,21,Male,Dishwasher,24000,4500,Personal,522,0,"I have severe, unmanageable credit card debt and need this loan just to survive the next month without defaulting. I feel completely lost.",0,Negative
+L1536,54,Female,Teacher,78000,18000,Medical,745,1,Covering costs for my spouse's specialized physical therapy program.,1,Neutral
+L1537,36,Male,Software Developer,132000,36000,Personal,802,1,"Need liquidity to capitalize on a timely, low-risk stock market opportunity.",1,Positive
+L1538,44,Female,Manager,114000,28000,Home,782,1,Financing a major upgrade to the home's smart security and automation infrastructure.,1,Positive
+L1539,29,Male,Bartender,40000,9000,Education,615,0,"I need this for mandatory certification fees for a better job, but I have no savings left. I am truly struggling to get ahead.",0,Negative
+L1540,62,Female,Retired,76000,13000,Personal,792,1,Funding a sabbatical trip to tour historical sites in Europe.,1,Positive
+L1541,35,Male,Sales Manager,96000,24000,Business,735,1,Investment in advanced telecommunication infrastructure for remote sales teams.,1,Positive
+L1542,24,Female,Clerk,33000,6500,Medical,602,0,I have a severe infection and need prescription antibiotics right now; my funds are completely depleted. I'm really scared about my health.,0,Negative
+L1543,49,Male,Engineer,145000,48000,Home,818,1,"Securing financing for a large, custom-built infinity pool and outdoor area.",1,Positive
+L1544,57,Female,HR Director,128000,32000,Education,800,1,Sponsoring advanced leadership coaching sessions for executive staff.,1,Positive
+L1545,32,Male,Truck Driver,74000,18000,Personal,672,3,Need funds to cover mandatory annual DOT commercial license renewal fees.,0,Negative
+L1546,46,Female,Nurse,89000,21000,Medical,748,1,Funding specialized certification in critical care transport.,1,Positive
+L1547,20,Male,Security Guard,28000,4500,Education,540,0,"I need this money to pay for my final course materials before the deadline, or I won't graduate. I am totally out of options.",0,Negative
+L1548,64,Female,Professor,120000,16000,Business,795,1,Small capital needed to fund a visiting scholar lecture series.,1,Positive
+L1549,39,Male,Mechanic,68000,18000,Home,695,3,Emergency replacement required for the main sewer line connection to the city system.,0,Negative
+L1550,47,Female,Accountant,104000,27000,Education,778,1,Financing specialized training in international corporate auditing.,1,Positive
+L1551,27,Male,Warehouse Associate,42000,10000,Personal,610,2,Need to pay off a collection agency debt before it impacts my ability to rent a decent place. Trying to improve my standing.,0,Positive
+L1552,51,Female,Executive,195000,52000,Home,842,1,Securing financing for the down payment on a luxury vacation condominium.,1,Positive
+L1553,34,Male,Data Entry Clerk,46000,8500,Education,640,1,Paying for a professional certification exam in cloud architecture.,0,Positive
+L1554,59,Female,Manager,122000,29000,Business,785,1,Acquisition of advanced inventory control software for multi-site management.,1,Positive
+L1555,23,Male,Waiter,31000,6500,Personal,580,1,"Need funds to cover the security deposit and first month's rent on a new, better apartment.",0,Positive
+L1556,42,Female,Librarian,60000,14000,Medical,725,2,Covering costs for my spouse's specialized dermatological treatment.,1,Neutral
+L1557,46,Male,Sales Director,118000,35000,Home,810,1,Financing the installation of a high-efficiency whole-house ventilation system.,1,Positive
+L1558,31,Female,Nurse,75000,16000,Education,750,1,Paying for advanced certification in cardiovascular nursing.,1,Positive
+L1559,53,Male,Scientist,168000,46000,Business,825,1,Purchasing new biological assay testing equipment.,1,Positive
+L1560,28,Female,Graphic Designer,68000,15000,Personal,700,2,Need funds to cover unexpected attorney fees related to a contractual dispute.,1,Negative
+L1561,66,Male,Retired,80000,10000,Medical,812,1,Covering ongoing costs for specialized physiotherapy sessions.,1,Negative
+L1562,37,Female,Teacher,71000,19000,Education,735,1,Funding advanced coursework in early childhood literacy development.,1,Positive
+L1563,40,Male,Accountant,99000,24000,Home,765,2,Need funds for an emergency replacement of the main septic tank.,0,Negative
+L1564,22,Female,Receptionist,36000,5500,Personal,592,0,I am completely out of cash and need this to pay my electric bill; I risk losing power. I am in a bad situation.,0,Negative
+L1565,50,Male,Engineer,142000,44000,Business,812,1,Acquisition of proprietary software for advanced structural analysis.,1,Positive
+L1566,45,Female,HR Manager,106000,21000,Education,775,1,Sponsoring specialized leadership training for mid-level management staff.,1,Positive
+L1567,33,Male,Construction Worker,60000,17000,Personal,645,3,Need funds to cover the cost of hiring specialized labor for a complex framing job.,0,Neutral
+L1568,58,Female,Administrator,90000,19000,Medical,760,2,Covering costs for an intensive rehabilitation program for an injury.,1,Positive
+L1569,25,Male,Electrician Apprentice,42000,13000,Business,635,0,"I relied on a very large, unstable client for income, and they pulled out; now I can't cover my overhead. I'm really struggling.",0,Negative
+L1570,48,Female,Doctor,235000,72000,Home,858,1,Financing the installation of a commercial-grade home security and surveillance network.,1,Positive
+L1571,30,Male,Software Engineer,125000,34000,Education,795,1,Aggressively paying down the final installment of my business technology degree.,1,Positive
+L1572,61,Female,Retired,58000,8000,Personal,770,1,Funding an annual membership renewal for an exclusive travel club.,1,Neutral
+L1573,21,Male,Security Guard,29000,6000,Personal,550,0,"I have multiple payday loans coming due this week, and I need this cash to avoid immediate default. I'm terrified of the consequences.",0,Negative
+L1574,44,Female,Teacher,80000,18000,Medical,750,1,Covering costs for my child's specialized learning therapy.,1,Positive
+L1575,38,Male,Truck Driver,84000,22000,Home,675,3,Need funds for emergency replacement of the main water heater system.,0,Negative
+L1576,52,Female,Financial Analyst,162000,42000,Business,820,1,Investment in advanced automated stock trading algorithms.,1,Positive
+L1577,28,Male,Photographer,50000,11000,Education,660,1,Purchasing necessary professional liability insurance for the next year of work.,0,Neutral
+L1578,55,Female,Manager,115000,25000,Personal,800,1,Funding a major investment in personal financial advisory services.,1,Positive
+L1579,32,Male,Carpenter,65000,16000,Home,695,2,"Replacing old, inefficient exterior railings and decking for safety.",1,Positive
+L1580,49,Female,Nurse,98000,24000,Medical,768,1,Financing advanced certification in critical trauma surgery support.,1,Positive
+L1581,24,Male,Fast Food Worker,27000,4500,Personal,550,0,I am short on rent this month and face potential eviction; I have nowhere else to turn for help.,0,Negative
+L1582,60,Female,Librarian,70000,12000,Education,755,1,Funding a major digital cataloging project for historical archives.,1,Positive
+L1583,36,Male,Sales Representative,88000,21000,Business,725,1,Need capital to hire a specialized B2B sales team for expansion.,1,Positive
+L1584,41,Female,Accountant,102000,26000,Home,778,2,Financing a major upgrade to the home's attic insulation and ventilation.,1,Positive
+L1585,29,Male,Bartender,41000,9000,Personal,610,0,I need this money to pay off a threatening debt collector regarding an old medical bill. I'm genuinely distressed.,0,Negative
+L1586,53,Female,Professor,128000,38000,Education,815,1,Funding a major multi-year sociological research project.,1,Positive
+L1587,47,Male,Pilot,190000,54000,Business,832,1,Acquisition of advanced weather radar systems for private fleet.,1,Positive
+L1588,35,Female,Software Developer,118000,32000,Personal,790,1,Need short-term capital to cover a brief period of self-employment income gap.,1,Neutral
+L1589,23,Male,Delivery Driver,35000,7500,Medical,600,1,Covering the cost of urgent physical therapy following a non-work-related injury.,0,Negative
+L1590,56,Female,Doctor,230000,75000,Home,855,1,"Financing a major expansion of the main residence, adding a master suite.",1,Positive
+L1591,30,Male,Graphic Designer,68000,17000,Business,705,2,Need to hire specialized SEO experts to boost online portfolio visibility.,1,Positive
+L1592,62,Female,Retired,65000,9000,Medical,782,1,Covering costs for ongoing specialized nutritional supplements.,1,Neutral
+L1593,38,Male,Accountant,97000,22000,Education,760,1,Paying for advanced data analytics certification for compliance.,1,Positive
+L1594,26,Female,Retail Associate,41000,10000,Personal,630,0,I have maxed out my primary credit card and need this to cover the minimum payment before fees hit. I feel like I'm drowning.,0,Negative
+L1595,49,Male,Engineer,150000,46000,Business,822,1,Investment in next-generation composite material fabrication machinery.,1,Positive
+L1596,54,Female,Manager,118000,27000,Home,795,1,Financing a major upgrade to the home's underground drainage and landscaping.,1,Positive
+L1597,31,Male,Plumber,73000,15000,Personal,690,2,Need funds to cover the cost of emergency locksmith services and rekeying after a break-in.,0,Negative
+L1598,42,Female,Teacher,75000,16000,Education,740,1,Funding specialized robotics programming workshops for high school students.,1,Positive
+L1599,25,Male,Cashier,32000,7000,Medical,588,0,"I need money immediately for an emergency root canal; the pain is debilitating, and I can't work without treatment.",0,Negative
+L1600,57,Female,Scientist,178000,48000,Business,835,1,Acquisition of advanced genomic sequencing hardware.,1,Positive
+L1601,33,Male,Truck Driver,78000,20000,Personal,668,3,Need capital to cover unexpected increased fuel surcharges for my long-haul routes.,0,Negative
+L1602,46,Female,HR Specialist,93000,23000,Home,755,1,Financing a major upgrade to the home's exterior deck and patio.,1,Positive
+L1603,20,Male,Student,23000,4000,Education,540,0,I must pay my final course tuition immediately or I lose my scholarship; I have no other recourse.,0,Negative
+L1604,50,Female,Doctor,210000,58000,Medical,850,1,Funding the purchase of a high-resolution ultrasound machine for early detection.,1,Positive
+L1605,39,Male,Real Estate Agent,100000,26000,Business,735,1,Capital for aggressive digital marketing targeting prime commercial real estate.,1,Positive
+L1606,64,Female,Retired,72000,12000,Personal,795,1,Covering costs for necessary in-home computer system overhaul for better security.,1,Positive
+L1607,28,Male,Warehouse Worker,43000,10000,Education,620,1,Paying for specialized HAZMAT handling certification required for a higher-paying shift.,0,Positive
+L1608,43,Female,Project Manager,115000,29000,Education,785,1,Sponsoring my child's specialized international language immersion program.,1,Positive
+L1609,51,Male,Mechanic,74000,16000,Business,710,2,Need funds to purchase a high-capacity industrial lift for large vehicle servicing.,1,Positive
+L1610,26,Female,Barista,35000,6500,Personal,590,0,"My primary means of transportation (scooter) was stolen, and I need funds to replace it immediately to keep my job.",0,Negative
+L1611,47,Male,Firefighter,95000,24000,Home,745,2,Financing a major upgrade to the home's outdoor drainage and irrigation.,1,Positive
+L1612,32,Female,Social Worker,61000,17000,Education,692,1,Funding specialized training in conflict resolution for community services.,1,Positive
+L1613,61,Male,Consultant,145000,26000,Personal,805,1,"Investment in a high-yield, short-term corporate bond offering.",1,Positive
+L1614,37,Female,Chef,71000,19000,Business,730,2,Need funds to purchase a commercial blast freezer for food preservation.,1,Neutral
+L1615,50,Male,Accountant,104000,27000,Home,780,2,Refinancing a portion of the mortgage to free up capital for investment.,1,Positive
+L1616,25,Female,Receptionist,40000,8500,Personal,630,1,Helping my sibling cover urgent medical transport fees so they can keep their essential job.,0,Positive
+L1617,55,Male,Engineer,168000,60000,Education,840,1,Sponsoring my child's entire final year of medical school tuition.,1,Positive
+L1618,30,Female,Sales Clerk,44000,10500,Medical,625,0,I need this money for essential prescription refills that I've had to skip due to lack of funds. I am truly struggling.,0,Negative
+L1619,41,Male,Pilot,165000,44000,Business,822,1,Acquisition of advanced flight path optimization software.,1,Positive
+L1620,68,Female,Retired,64000,8000,Personal,782,1,Covering costs for necessary home technology upgrades for remote communication.,1,Positive
+L1621,22,Male,Tutor,34000,5500,Education,590,1,Purchasing specialized advanced tutoring materials for high-level clients.,0,Positive
+L1622,38,Female,Lawyer,140000,40000,Home,808,1,Funds needed to cover closing costs on a significant commercial property purchase.,1,Positive
+L1623,45,Male,Driver,52000,14000,Personal,595,3,My main work vehicle needs an immediate engine overhaul; I can't earn without it. I'm desperate for this loan.,0,Negative
+L1624,52,Female,Doctor,225000,72000,Medical,852,1,Funding the purchase of a high-resolution digital pathology scanner.,1,Positive
+L1625,26,Male,Retail Manager,53000,17000,Business,682,2,Need capital for specialized display cases to showcase high-value items.,0,Neutral
+L1626,60,Female,Accountant,108000,24000,Education,770,1,Paying off the final installment of my advanced certification debt.,1,Positive
+L1627,33,Male,Electrician,84000,21000,Home,715,1,Financing the replacement of the main electrical service panel for safety reasons.,1,Positive
+L1628,48,Female,Scientist,165000,46000,Business,825,1,Investment in proprietary robotic automation for lab processes.,1,Positive
+L1629,21,Male,Dishwasher,25000,5000,Personal,528,0,"I have severe, unmanageable credit card debt and need this cash to stop the cycle of penalties. I feel hopeless.",0,Negative
+L1630,54,Female,Teacher,80000,19000,Medical,750,1,Covering costs for my spouse's specialized physical therapy program.,1,Neutral
+L1631,36,Male,Software Developer,135000,38000,Personal,805,1,Need liquidity to exercise stock options before the expiration date.,1,Positive
+L1632,44,Female,Manager,116000,29000,Home,782,1,Financing a major upgrade to the home's pool and surrounding hardscaping.,1,Positive
+L1633,29,Male,Bartender,41000,9500,Education,620,0,"I need this for a mandatory safety deposit for a shared housing situation, but my income is unstable. I'm in a bind.",0,Negative
+L1634,62,Female,Retired,78000,14000,Personal,795,1,Funding a significant upgrade to my home office technology suite.,1,Positive
+L1635,35,Male,Sales Manager,98000,25000,Business,740,1,Investment in a new CRM system for improved client management.,1,Positive
+L1636,24,Female,Clerk,34000,7000,Medical,605,0,I need this money for a critical dental consultation that I can't afford; I'm in pain and worried about complications.,0,Negative
+L1637,49,Male,Engineer,148000,50000,Home,820,1,"Securing financing for the construction of a large, energy-efficient guest house.",1,Positive
+L1638,57,Female,HR Director,130000,34000,Education,802,1,Sponsoring travel and lodging for an important industry leadership retreat.,1,Positive
+L1639,32,Male,Truck Driver,76000,19000,Personal,678,3,"Need funds to cover unexpected, high-cost repairs to my trailer's suspension system.",0,Negative
+L1640,46,Female,Nurse,91000,22000,Medical,752,1,Funding specialized certification in pediatric oncology nursing.,1,Positive
+L1641,20,Male,Security Guard,29000,5000,Education,545,0,"I need this money to pay for my final required certification exam, or I can't get the job I was offered. I am desperate for this opportunity.",0,Negative
+L1642,64,Female,Professor,122000,17000,Business,798,1,Small capital needed to host a specialized visiting researcher for three months.,1,Neutral
+L1643,39,Male,Mechanic,70000,19000,Home,700,3,Emergency replacement of the main electrical breaker panel due to age and corrosion.,0,Negative
+L1644,47,Female,Accountant,106000,28000,Education,780,1,Financing advanced training in cryptocurrency tax law compliance.,1,Positive
+L1645,27,Male,Warehouse Associate,43000,10500,Personal,615,2,Need to clear a high-interest credit card debt before the interest compounds further. Trying to get back on track.,0,Negative
+L1646,51,Female,Executive,200000,55000,Home,845,1,Securing financing for the down payment on a high-potential commercial land purchase.,1,Positive
+L1647,34,Male,Data Entry Clerk,47000,9000,Education,645,1,Paying for a professional certification in advanced database management.,0,Positive
+L1648,59,Female,Manager,124000,30000,Business,790,1,Acquisition of advanced supply chain logistics software.,1,Positive
+L1649,23,Male,Waiter,32000,7000,Personal,585,1,"Need funds to cover moving expenses and deposits for a new, better apartment located closer to my restaurant job.",0,Positive
+L1650,42,Female,Librarian,61000,15000,Medical,730,2,Covering costs for specialized physical therapy for an ongoing mobility issue.,1,Positive
+L1651,46,Male,Sales Director,120000,37000,Home,812,1,"Financing the installation of a high-efficiency, multi-zone HVAC system.",1,Positive
+L1652,31,Female,Nurse,77000,17000,Education,755,1,Paying for advanced leadership workshops in nursing management.,1,Positive
+L1653,53,Male,Scientist,170000,48000,Business,828,1,Purchasing new microscopy and cell analysis equipment.,1,Positive
+L1654,28,Female,Graphic Designer,70000,16000,Personal,705,2,Need funds to cover attorney fees related to a complex freelance contract negotiation.,1,Negative
+L1655,66,Male,Retired,82000,11000,Medical,815,1,Covering costs for annual comprehensive health screening package.,1,Positive
+L1656,37,Female,Teacher,72000,20000,Education,740,1,Funding a specialized summer institute focused on curriculum innovation.,1,Positive
+L1657,40,Male,Accountant,101000,25000,Home,770,2,Need funds for emergency restoration of a collapsed section of the retaining wall.,0,Negative
+L1658,22,Female,Receptionist,37000,6000,Personal,598,0,I am facing utility shutoff due to overdue bills and desperately need this cash to keep the power on. I feel trapped.,0,Negative
+L1659,50,Male,Engineer,145000,46000,Business,815,1,Acquisition of a proprietary system for structural integrity monitoring.,1,Positive
+L1660,45,Female,HR Manager,108000,22000,Education,780,1,Sponsoring employee attendance at a major national HR compliance conference.,1,Positive
+L1661,33,Male,Construction Worker,62000,18000,Personal,650,3,"Need funds to cover unexpected, high material costs on a custom home build.",0,Negative
+L1662,58,Female,Administrator,92000,20000,Medical,765,2,Covering costs for an extended rehabilitation program following minor surgery.,1,Neutral
+L1663,25,Male,Electrician Apprentice,44000,14000,Business,640,0,I took a large risk on ordering specialized inventory that hasn't sold yet; I need this to cover overhead. I feel really nervous.,0,Negative
+L1664,48,Female,Doctor,240000,75000,Home,860,1,"Financing the installation of a high-end, commercial-grade exterior lighting and security system.",1,Positive
+L1665,30,Male,Software Engineer,128000,36000,Education,798,1,Aggressively paying off the final segment of my software development master's degree.,1,Positive
+L1666,61,Female,Retired,60000,9000,Personal,775,1,Funding a trip to visit family overseas for an extended period.,1,Positive
+L1667,21,Male,Security Guard,30000,6500,Personal,555,0,I have accumulated significant debt from a co-signed loan that went bad; I need this cash to avoid immediate default. I am completely desperate.,0,Negative
+L1668,44,Female,Teacher,82000,19000,Medical,755,1,Covering costs for my child's specialized academic support services.,1,Positive
+L1669,38,Male,Truck Driver,86000,23000,Home,680,3,Need funds for emergency replacement of the entire roof structure due to sudden hail damage.,0,Negative
+L1670,52,Female,Financial Analyst,165000,44000,Business,822,1,Investment in a high-growth emerging market equity portfolio.,1,Positive
+L1671,28,Male,Photographer,51000,11500,Education,665,1,Purchasing specialized drone photography equipment for aerial mapping contracts.,0,Positive
+L1672,55,Female,Manager,118000,26000,Personal,800,1,"Funding a significant, high-value investment in rare collectibles.",1,Positive
+L1673,32,Male,Carpenter,67000,17000,Home,700,2,"Replacing old, inefficient exterior fencing with durable, modern materials.",1,Positive
+L1674,49,Female,Nurse,100000,25000,Medical,772,1,Financing advanced certification in pediatric critical care management.,1,Positive
+L1675,24,Male,Fast Food Worker,28000,4500,Personal,555,0,I need this money urgently to cover overdue utility bills; I risk losing heat. I am completely out of options.,0,Negative
+L1676,60,Female,Librarian,71000,13000,Education,758,1,Funding a major book acquisition for the local public library system.,1,Positive
+L1677,36,Male,Sales Representative,90000,22000,Business,730,1,Need capital for upgrading our entire telecommunications infrastructure.,1,Positive
+L1678,41,Female,Accountant,104000,27000,Home,780,2,Financing a major upgrade to the home's security and smart access systems.,1,Positive
+L1679,29,Male,Bartender,42000,9500,Personal,615,0,I have accumulated significant debt from a failed business venture and need this to stop collection calls. I feel truly trapped.,0,Negative
+L1680,53,Female,Professor,130000,39000,Education,818,1,Funding a multi-year research grant focused on sustainable urban planning.,1,Positive
+L1681,47,Male,Pilot,195000,56000,Business,835,1,"Acquisition of advanced, proprietary navigation mapping data.",1,Positive
+L1682,35,Female,Software Developer,120000,34000,Personal,790,1,Need short-term funds to cover a capital gains tax liability realized recently.,1,Neutral
+L1683,23,Male,Delivery Driver,36000,8000,Medical,605,1,Covering the cost of an urgent specialist consultation for a nagging injury that affects driving.,0,Negative
+L1684,56,Female,Doctor,230000,78000,Home,858,1,"Financing a large, professionally designed addition to the home for long-term value.",1,Positive
+L1685,30,Male,Graphic Designer,70000,18000,Business,710,2,Need to hire a high-end video production team for a crucial client campaign.,1,Positive
+L1686,62,Female,Retired,67000,10000,Medical,788,1,Covering costs for necessary in-home care assistance for a few months.,1,Neutral
+L1687,38,Male,Accountant,99000,23000,Education,765,1,Paying for advanced certification in international corporate finance law.,1,Positive
+L1688,26,Female,Retail Associate,42000,10500,Personal,635,0,I am completely buried under high-interest credit card debt and need this consolidation loan immediately to avoid default. I feel overwhelmed.,0,Negative
+L1689,49,Male,Engineer,152000,48000,Business,825,1,Investment in specialized structural testing robotics.,1,Positive
+L1690,54,Female,Manager,119000,28000,Home,798,1,Financing a complete overhaul of the home's exterior siding and paint job.,1,Positive
+L1691,31,Male,Plumber,74000,16000,Personal,695,2,"Need funds to cover the cost of replacing specialized, heavy-duty commercial tools stolen from my truck.",0,Negative
+L1692,42,Female,Teacher,77000,17000,Education,745,1,Funding specialized training for teachers in advanced digital security.,1,Positive
+L1693,25,Male,Cashier,33000,7500,Medical,592,0,I need this money for an emergency dental procedure that is causing me severe discomfort and inability to work properly.,0,Negative
+L1694,57,Female,Scientist,180000,50000,Business,838,1,"Acquisition of a new, high-throughput genetic sequencing system.",1,Positive
+L1695,33,Male,Truck Driver,78000,21000,Personal,672,3,Need capital to cover unexpected expenses related to DOT compliance upgrades.,0,Negative
+L1696,46,Female,HR Specialist,95000,24000,Home,760,1,Financing the installation of a high-efficiency heat pump and HVAC system.,1,Positive
+L1697,20,Male,Student,23000,4000,Education,545,0,I need this to pay for a mandatory prerequisite course fee or I fail the semester. I have no other source of funding.,0,Negative
+L1698,50,Female,Doctor,215000,60000,Medical,852,1,Funding the purchase of a state-of-the-art dermatology laser system.,1,Positive
+L1699,39,Male,Real Estate Agent,102000,27000,Business,738,1,"Capital for aggressive, targeted advertising campaigns in new suburban markets.",1,Positive
+L1700,64,Female,Retired,74000,13000,Personal,800,1,Covering costs for necessary home accessibility updates to maintain independence.,1,Positive
+L1701,28,Male,Warehouse Worker,44000,10500,Education,625,1,Paying for specialized logistics management certification to qualify for warehouse supervisor role.,0,Positive
+L1702,43,Female,Project Manager,118000,30000,Education,790,1,Sponsoring my child's advanced music performance degree abroad.,1,Positive
+L1703,51,Male,Mechanic,76000,17000,Business,715,2,Need funds to purchase a heavy-duty alignment rack system.,1,Neutral
+L1704,26,Female,Barista,36000,7000,Personal,595,0,"My scooter, used for work commute, was stolen, and I need this cash immediately to replace it before losing my job.",0,Negative
+L1705,47,Male,Firefighter,98000,25000,Home,750,2,Financing a major upgrade to the home's fire safety and detection system.,1,Positive
+L1706,32,Female,Social Worker,62000,18000,Education,698,1,Funding specialized training in non-profit organizational management.,1,Positive
+L1707,61,Male,Consultant,148000,28000,Personal,808,1,"Investment in a high-yield, low-volatility corporate bond portfolio.",1,Positive
+L1708,37,Female,Chef,71000,20000,Business,735,2,Need funds to purchase a specialized food dehydrator for premium product lines.,1,Positive
+L1709,50,Male,Accountant,106000,28000,Home,785,2,Refinancing existing loan structure to achieve better long-term interest rates.,1,Positive
+L1710,25,Female,Receptionist,41000,9000,Personal,630,1,Helping my sibling cover urgent car maintenance so they can retain their job.,0,Positive
+L1711,55,Male,Engineer,170000,62000,Education,842,1,Sponsoring my child's entire final year of engineering postgraduate studies.,1,Positive
+L1712,30,Female,Sales Clerk,45000,11000,Medical,630,0,I need this money immediately to cover overdue prescription refills that are essential for my health. I feel desperate.,0,Negative
+L1713,41,Male,Pilot,168000,45000,Business,825,1,Acquisition of advanced air traffic control simulator modules.,1,Positive
+L1714,68,Female,Retired,66000,9000,Personal,788,1,Covering costs for necessary modifications to accommodate mobility aids at home.,1,Positive
+L1715,22,Male,Tutor,35000,6000,Education,595,1,Purchasing specialized tutoring software licenses for high-demand subjects.,0,Positive
+L1716,38,Female,Lawyer,142000,42000,Home,810,1,Funds needed to finalize closing costs on a significant investment property purchase.,1,Positive
+L1717,45,Male,Driver,54000,15000,Personal,600,3,"My primary work vehicle needs a new clutch assembly, and without it, I lose my income. I am in a tough spot.",0,Negative
+L1718,52,Female,Doctor,230000,75000,Medical,855,1,Funding the acquisition of cutting-edge diagnostic imaging equipment for the clinic.,1,Positive
+L1719,26,Male,Retail Manager,54000,18000,Business,688,2,Need capital for an aggressive marketing push for a new product launch.,0,Positive
+L1720,60,Female,Accountant,110000,25000,Education,775,1,Paying off the final segment of my advanced CPA specialization loan.,1,Positive
+L1721,33,Male,Electrician,86000,22000,Home,720,1,Financing the replacement of the entire exterior siding and trim.,1,Neutral
+L1722,48,Female,Scientist,168000,48000,Business,828,1,Investment in specialized automated environmental testing chambers.,1,Positive
+L1723,21,Male,Dishwasher,25000,5000,Personal,532,0,I have defaulted on several small loans recently and need this cash to stop collection calls. I feel completely hopeless and panicked.,0,Negative
+L1724,54,Female,Teacher,82000,20000,Medical,755,1,Covering costs for my spouse's specialized neurological evaluation.,1,Neutral
+L1725,36,Male,Software Developer,138000,39000,Personal,808,1,"Need liquidity to execute a timely, low-risk investment in a private company.",1,Positive
+L1726,44,Female,Manager,118000,30000,Home,785,1,Financing a major upgrade to the home's central air conditioning system for efficiency.,1,Positive
+L1727,29,Male,Bartender,42000,9500,Education,625,0,"I need this for mandatory safety training for a better job, but I have zero savings right now. I feel like this is an impossible hurdle.",0,Negative
+L1728,62,Female,Retired,78000,14000,Personal,798,1,Funding a subscription to a premium financial planning service.,1,Positive
+L1729,35,Male,Sales Manager,98000,25000,Business,745,1,Investment in next-generation CRM software licenses.,1,Positive
+L1730,24,Female,Clerk,34000,7000,Medical,610,0,I need this money for a critical prescription refill; I've been rationing my dosage because I couldn't afford the cost. I'm scared.,0,Negative
+L1731,49,Male,Engineer,150000,52000,Home,822,1,"Securing financing for the construction of a large, detached workshop/garage.",1,Neutral
+L1732,57,Female,HR Director,130000,35000,Education,805,1,Sponsoring employee travel to a national HR best practices summit.,1,Positive
+L1733,32,Male,Truck Driver,78000,20000,Personal,682,3,"Need funds to cover unexpected, high insurance premium increases for commercial vehicle coverage.",0,Negative
+L1734,46,Female,Nurse,93000,23000,Medical,758,1,Funding specialized training in advanced cardiac life support.,1,Positive
+L1735,20,Male,Security Guard,30000,5500,Education,550,0,I must pay my final registration fee or I lose my scholarship eligibility. I have no other options.,0,Negative
+L1736,64,Female,Professor,125000,18000,Business,800,1,Small capital infusion to support a graduate student's dissertation research travel.,1,Positive
+L1737,39,Male,Mechanic,72000,20000,Home,705,3,Emergency replacement of the main water service line leading to the house.,0,Negative
+L1738,47,Female,Accountant,108000,29000,Education,785,1,Financing advanced training in global regulatory compliance.,1,Positive
+L1739,27,Male,Warehouse Associate,44000,11000,Personal,620,2,Need to pay off a high-interest collection agency debt before it damages my credit score further. Trying to be responsible.,0,Positive
+L1740,51,Female,Executive,205000,58000,Home,848,1,Securing financing for the acquisition of a high-yield rental property.,1,Positive
+L1741,34,Male,Data Entry Clerk,48000,9500,Education,650,1,Paying for a professional certification in advanced IT network security.,0,Positive
+L1742,59,Female,Manager,126000,31000,Business,792,1,Acquisition of specialized machinery for enhanced production quality control.,1,Positive
+L1743,23,Male,Waiter,33000,7500,Personal,590,1,Need funds to cover the security deposit for a new apartment that is safer for my family.,0,Positive
+L1744,42,Female,Librarian,62000,16000,Medical,735,2,Covering costs for my spouse's specialized physical therapy.,1,Positive
+L1745,46,Male,Sales Director,122000,38000,Home,815,1,Financing the installation of a commercial-grade rainwater harvesting system.,1,Positive
+L1746,31,Female,Nurse,79000,18000,Education,760,1,Paying for advanced certification in emergency room protocols.,1,Positive
+L1747,53,Male,Scientist,172000,50000,Business,830,1,Purchasing a new high-speed computing cluster for complex modeling.,1,Positive
+L1748,28,Female,Graphic Designer,72000,17000,Personal,710,2,Need funds to cover unexpected legal defense costs related to a freelance project.,1,Negative
+L1749,66,Male,Retired,84000,12000,Medical,818,1,Covering costs for a necessary dental implant procedure.,1,Positive
+L1750,37,Female,Teacher,74000,21000,Education,745,1,Funding a research sabbatical focused on innovative pedagogy.,1,Positive
+L1751,40,Male,Accountant,103000,26000,Home,775,2,Need funds for emergency repair of the main chimney stack due to structural issues.,0,Negative
+L1752,22,Female,Receptionist,38000,6500,Personal,602,0,"I need this money to pay my rent immediately; my paycheck was delayed, and I face eviction. I am truly panicked.",0,Negative
+L1753,50,Male,Engineer,148000,48000,Business,818,1,Acquisition of proprietary robotics for quality assurance testing.,1,Positive
+L1754,45,Female,HR Manager,110000,23000,Education,785,1,Sponsoring employee travel to a national leadership development seminar.,1,Positive
+L1755,33,Male,Construction Worker,64000,19000,Personal,655,3,Need funds to cover the unexpected cost of specialized concrete pouring for a custom foundation.,0,Negative
+L1756,58,Female,Administrator,94000,21000,Medical,770,2,Covering costs for an extended physical therapy regimen following a minor procedure.,1,Neutral
+L1757,25,Male,Electrician Apprentice,45000,15000,Business,645,0,I overextended my credit buying specialized tools based on a projected large contract that fell through. I'm in trouble.,0,Negative
+L1758,48,Female,Doctor,240000,78000,Home,862,1,Financing the installation of a professional-grade home security and surveillance system.,1,Positive
+L1759,30,Male,Software Engineer,130000,38000,Education,800,1,Aggressively paying off the final segment of my enterprise architecture master's degree.,1,Positive
+L1760,61,Female,Retired,62000,10000,Personal,780,1,Funding an extended trip to visit aging relatives overseas.,1,Positive
+L1761,21,Male,Security Guard,31000,7000,Personal,560,0,I owe money to an aggressive debt collector and need this cash immediately to settle the account and stop harassing calls. I'm genuinely scared.,0,Negative
+L1762,44,Female,Teacher,84000,20000,Medical,760,1,Covering costs for my child's specialized speech therapy program.,1,Positive
+L1763,38,Male,Truck Driver,88000,24000,Home,685,3,Need funds for emergency replacement of the garage foundation due to soil instability.,0,Negative
+L1764,52,Female,Financial Analyst,168000,46000,Business,825,1,Investment in a diversified portfolio of private infrastructure bonds.,1,Positive
+L1765,28,Male,Photographer,52000,12000,Education,670,1,Purchasing advanced cinematography equipment necessary for securing high-end commercial video jobs.,0,Positive
+L1766,55,Female,Manager,120000,27000,Personal,805,1,"Funding a major, high-value personal investment in fine art.",1,Positive
+L1767,32,Male,Carpenter,69000,18000,Home,705,2,"Replacing old, failing exterior decking and railing system for safety reasons.",1,Neutral
+L1768,49,Female,Nurse,102000,26000,Medical,778,1,Financing advanced training in pediatric pain management techniques.,1,Positive
+L1769,24,Male,Fast Food Worker,29000,5000,Personal,560,0,"I need this money immediately to cover my car insurance premium; if I drive uninsured, I risk losing my job. I'm desperate.",0,Negative
+L1770,60,Female,Librarian,73000,14000,Education,762,1,Funding a major upgrade to the library's digital media lab resources.,1,Positive
+L1771,36,Male,Sales Representative,92000,23000,Business,735,1,Need capital for a significant increase in sales staff training and onboarding.,1,Positive
+L1772,41,Female,Accountant,106000,28000,Home,782,2,Financing a major upgrade to the home's plumbing infrastructure and fixtures.,1,Positive
+L1773,29,Male,Bartender,43000,9800,Personal,620,0,I have several overdue small debts that are threatening my credit rating; I need this to consolidate and regain control. I feel so anxious.,0,Negative
+L1774,53,Female,Professor,132000,40000,Education,820,1,Funding a multi-year research partnership with an international university.,1,Positive
+L1775,47,Male,Pilot,200000,58000,Business,838,1,Acquisition of next-generation flight performance telemetry systems.,1,Positive
+L1776,35,Female,Software Developer,122000,35000,Personal,795,1,Need short-term liquidity while waiting for a large enterprise contract payment to clear.,1,Neutral
+L1777,23,Male,Delivery Driver,37000,8500,Medical,610,1,Covering the cost of specialized physical therapy for a recurring back issue that affects my work.,0,Negative
+L1778,56,Female,Doctor,235000,80000,Home,860,1,Financing the installation of a state-of-the-art geothermal heating system.,1,Positive
+L1779,30,Male,Graphic Designer,72000,19000,Business,715,2,Need to hire a specialized UX/UI consultant for a major redesign project.,1,Neutral
+L1780,62,Female,Retired,69000,11000,Medical,792,1,Covering costs for ongoing specialized dietary consultation.,1,Neutral
+L1781,38,Male,Accountant,101000,24000,Education,770,1,Paying for advanced certification in forensic data auditing.,1,Positive
+L1782,26,Female,Retail Associate,43000,11000,Personal,640,0,I am behind on my minimum credit card payments and need this loan to avoid severe penalties next month. I am desperate for breathing room.,0,Negative
+L1783,49,Male,Engineer,155000,49000,Business,828,1,"Investment in specialized, high-precision machining tools.",1,Positive
+L1784,54,Female,Manager,121000,29000,Home,798,1,Financing a comprehensive upgrade to the home's septic and drainage system.,1,Positive
+L1785,31,Male,Plumber,75000,17000,Personal,700,2,Need funds to cover the cost of specialized commercial pipe inspection camera rental.,0,Neutral
+L1786,42,Female,Teacher,78000,18000,Education,750,1,Funding specialized training for teachers in advanced robotics instruction.,1,Positive
+L1787,25,Male,Cashier,34000,7500,Medical,598,0,I need this money immediately to cover an overdue ambulance bill that is heading to collections. I am genuinely stressed.,0,Negative
+L1788,57,Female,Scientist,182000,51000,Business,840,1,Acquisition of a new high-performance liquid chromatograph.,1,Neutral
+L1789,33,Male,Truck Driver,80000,22000,Personal,678,3,"Need capital to cover mandatory, unexpected roadside assistance service fees.",0,Negative
+L1790,46,Female,HR Specialist,97000,25000,Home,765,1,Financing a major upgrade to the home's exterior paint and sealing.,1,Positive
+L1791,20,Male,Student,24000,4500,Education,550,0,"I need this for my final certification exam fee, or I fail the course; I have no other way to pay. I feel stuck.",0,Negative
+L1792,50,Female,Doctor,218000,62000,Medical,855,1,Funding the purchase of a high-resolution diagnostic ultrasound system.,1,Positive
+L1793,39,Male,Real Estate Agent,104000,28000,Business,742,1,Capital for aggressive marketing of new commercial properties.,1,Positive
+L1794,64,Female,Retired,75000,14000,Personal,802,1,Covering costs for an essential home accessibility modification.,1,Positive
+L1795,28,Male,Warehouse Worker,45000,11000,Education,630,1,Paying for specialized certification in automated warehouse management systems.,0,Positive
+L1796,43,Female,Project Manager,120000,31000,Education,792,1,Sponsoring my child's specialized international arts program tuition.,1,Positive
+L1797,51,Male,Mechanic,78000,18000,Business,720,2,Need funds to purchase a specialized diagnostic tool for electric vehicles.,1,Neutral
+L1798,26,Female,Barista,37000,7500,Personal,600,0,"My car insurance just lapsed, and I need this cash immediately to pay the reinstatement fee, or I can't drive to work.",0,Negative
+L1799,47,Male,Firefighter,98000,26000,Home,755,2,Financing a major upgrade to the home's exterior fencing and retaining walls.,1,Positive
+L1800,32,Female,Social Worker,63000,19000,Education,702,1,Funding specialized training in substance abuse counseling.,1,Positive
+L1801,61,Male,Consultant,150000,29000,Personal,810,1,"Investment in a high-yield, short-term private lending opportunity.",1,Positive
+L1802,37,Female,Chef,72000,21000,Business,740,2,Need funds to purchase commercial kitchen ventilation upgrades.,1,Neutral
+L1803,50,Male,Accountant,108000,29000,Home,788,2,Refinancing a portion of the mortgage to free up capital for investment strategies.,1,Positive
+L1804,25,Female,Receptionist,42000,9500,Personal,635,1,Helping my sibling cover emergency utility bill payments to prevent shutoff.,0,Positive
+L1805,55,Male,Engineer,172000,64000,Education,845,1,Sponsoring my child's final year of engineering postgraduate studies.,1,Positive
+L1806,30,Female,Sales Clerk,46000,11500,Medical,635,0,I need this money for essential prescription refills that I have been skipping; I cannot manage my condition without them. I feel desperate.,0,Negative
+L1807,41,Male,Pilot,170000,46000,Business,828,1,Acquisition of advanced flight path optimization software updates.,1,Positive
+L1808,68,Female,Retired,68000,10000,Personal,792,1,Covering costs for necessary home maintenance not covered by standard budget.,1,Neutral
+L1809,22,Male,Tutor,36000,6000,Education,600,1,Purchasing specialized educational software licenses for advanced calculus tutoring.,0,Positive
+L1810,38,Female,Lawyer,145000,44000,Home,812,1,Funds needed to cover closing costs on a significant personal office renovation.,1,Neutral
+L1811,45,Male,Driver,55000,16000,Personal,605,3,"My main work vehicle needs an immediate transmission replacement; without it, I cannot earn a living. I'm in a very difficult situation.",0,Negative
+L1812,52,Female,Doctor,235000,78000,Medical,858,1,Funding the purchase of cutting-edge diagnostic ultrasound technology.,1,Positive
+L1813,26,Male,Retail Manager,55000,19000,Business,692,2,Need capital for increased inventory volume to meet unexpected demand spike.,0,Positive
+L1814,60,Female,Accountant,112000,26000,Education,780,1,Paying off the final installment of my advanced tax specialization loan.,1,Positive
+L1815,33,Male,Electrician,88000,23000,Home,725,1,Financing the replacement of the main electrical wiring throughout the property.,1,Neutral
+L1816,48,Female,Scientist,170000,48000,Business,830,1,Investment in proprietary biological sequencing optimization tools.,1,Positive
+L1817,21,Male,Dishwasher,26000,5500,Personal,538,0,"I have severe, unmanageable debt from a co-signed loan that went bad; I need this cash to stop the immediate pressure. I feel totally lost.",0,Negative
+L1818,54,Female,Teacher,84000,21000,Medical,760,1,Covering costs for my spouse's specialized cardiac diagnostic testing.,1,Neutral
+L1819,36,Male,Software Developer,140000,40000,Personal,810,1,"Need liquidity to capitalize on a very timely, low-risk investment opportunity.",1,Positive
+L1820,44,Female,Manager,120000,31000,Home,788,1,Financing a major upgrade to the home's landscaping and hardscape features.,1,Positive
+L1821,29,Male,Bartender,43000,9800,Education,630,0,"I need this money for mandatory safety certification for a union job, but I have zero savings. I feel like I can't catch a break.",0,Negative
+L1822,62,Female,Retired,80000,15000,Personal,800,1,Funding a major home technology upgrade to facilitate remote hobbies.,1,Positive
+L1823,35,Male,Sales Manager,100000,26000,Business,750,1,Investment in new territory expansion and associated personnel hiring.,1,Positive
+L1824,24,Female,Clerk,35000,7500,Medical,612,0,I need this money right now for critical prescription refills; I've been rationing them and feel terrible. I'm scared.,0,Negative
+L1825,49,Male,Engineer,152000,54000,Home,825,1,"Securing financing for the construction of a large, custom-built pool house.",1,Neutral
+L1826,57,Female,HR Director,132000,36000,Education,808,1,Sponsoring advanced leadership coaching for newly promoted department heads.,1,Positive
+L1827,32,Male,Truck Driver,78000,21000,Personal,688,3,Need funds to cover mandatory DOT compliance safety checks and required repairs.,0,Negative
+L1828,46,Female,Nurse,95000,24000,Medical,762,1,Funding specialized training in advanced neurological assessment.,1,Positive
+L1829,20,Male,Security Guard,31000,6000,Education,555,0,I need this money to pay my final course fee or I lose my scholarship. This is my last chance to graduate.,0,Negative
+L1830,64,Female,Professor,125000,19000,Business,802,1,"Small capital infusion to host a specialized, international research symposium.",1,Positive
+L1831,39,Male,Mechanic,73000,21000,Home,710,3,Emergency repair required for the main gas line connection to the house.,0,Negative
+L1832,47,Female,Accountant,110000,30000,Education,788,1,Financing specialized training in complex international tax treaties.,1,Positive
+L1833,27,Male,Warehouse Associate,45000,11500,Personal,625,2,Need to pay off a high-interest line of credit that is about to max out. I'm trying to clean up my financial history.,0,Negative
+L1834,51,Female,Executive,210000,60000,Home,848,1,Securing financing for the down payment on a second commercial investment property.,1,Neutral
+L1835,34,Male,Data Entry Clerk,49000,10000,Education,655,1,Paying for a professional certification in advanced cybersecurity protocols.,0,Positive
+L1836,59,Female,Manager,128000,33000,Business,795,1,Acquisition of specialized robotics for enhanced quality assurance in manufacturing.,1,Positive
+L1837,23,Male,Waiter,34000,7500,Personal,590,1,Need funds to cover moving expenses and security deposit for a family-friendly neighborhood.,0,Positive
+L1838,42,Female,Librarian,63000,17000,Medical,740,2,Covering costs for my spouse's specialized dental work.,1,Neutral
+L1839,46,Male,Sales Director,125000,39000,Home,818,1,Financing the installation of a high-efficiency geothermal heating system.,1,Positive
+L1840,31,Female,Nurse,80000,19000,Education,765,1,Paying for advanced leadership development workshops in hospital administration.,1,Positive
+L1841,53,Male,Scientist,175000,50000,Business,832,1,Purchasing new high-capacity laboratory fume hoods.,1,Positive
+L1842,28,Female,Graphic Designer,74000,18000,Personal,715,2,Need funds to cover legal consultation fees regarding a minor copyright infringement.,1,Negative
+L1843,66,Male,Retired,86000,13000,Medical,820,1,Covering costs for necessary elective physical therapy sessions.,1,Positive
+L1844,37,Female,Teacher,75000,22000,Education,750,1,Funding a major research project focused on educational technology integration.,1,Positive
+L1845,40,Male,Accountant,105000,27000,Home,780,2,Need funds for emergency repair of the main attic support beams due to long-term moisture damage.,0,Negative
+L1846,22,Female,Receptionist,39000,7000,Personal,608,0,I need this money immediately to pay my overdue rent; I face eviction by the end of the week. I feel completely helpless.,0,Negative
+L1847,50,Male,Engineer,148000,48000,Business,818,1,"Acquisition of specialized, high-precision milling equipment.",1,Positive
+L1848,45,Female,HR Manager,112000,24000,Education,788,1,Sponsoring employee relocation costs for a new branch opening.,1,Positive
+L1849,33,Male,Construction Worker,66000,20000,Personal,660,3,Need funds to cover specialized labor costs for a custom framing job that requires expedited completion.,0,Neutral
+L1850,58,Female,Administrator,96000,22000,Medical,775,2,Covering costs for an intensive rehabilitation program following a complex fracture.,1,Positive
+L1851,25,Male,Electrician Apprentice,47000,16000,Business,650,0,I took a significant risk expanding my tool inventory based on a contract that evaporated; I need this to cover immediate overhead.,0,Negative
+L1852,48,Female,Doctor,245000,78000,Home,865,1,"Financing the installation of a high-end, multi-zone smart irrigation system.",1,Positive
+L1853,30,Male,Software Engineer,132000,39000,Education,802,1,Aggressively paying down the final portion of my master's degree student debt.,1,Positive
+L1854,61,Female,Retired,64000,11000,Personal,782,1,Funding an annual membership fee for a preferred travel booking service.,1,Positive
+L1855,21,Male,Security Guard,32000,7500,Personal,565,0,I have multiple overdue high-interest loans coming due; I need this cash to avoid immediate default and severe consequences.,0,Negative
+L1856,44,Female,Teacher,85000,21000,Medical,765,1,Covering costs for my spouse's specialized cardiology follow-up care.,1,Neutral
+L1857,38,Male,Truck Driver,90000,25000,Home,690,3,Need funds for emergency replacement of a failing septic pump system.,0,Negative
+L1858,52,Female,Financial Analyst,170000,48000,Business,828,1,Investment in a diversified portfolio of emerging tech sector ETFs.,1,Positive
+L1859,28,Male,Photographer,53000,12500,Education,675,1,"Purchasing specialized, high-resolution printing equipment for archival work.",0,Positive
+L1860,55,Female,Manager,122000,28000,Personal,808,1,"Funding a significant, high-value investment in rare vintage automobiles.",1,Positive
+L1861,32,Male,Carpenter,71000,19000,Home,710,2,"Replacing old, inefficient exterior siding and trim.",1,Positive
+L1862,49,Female,Nurse,104000,27000,Medical,782,1,Financing advanced certification in surgical sub-specialties.,1,Positive
+L1863,24,Male,Fast Food Worker,30000,5500,Personal,565,0,I need this money immediately to pay my landlord; I'm short on rent and face eviction. I am truly desperate.,0,Negative
+L1864,60,Female,Librarian,75000,15000,Education,768,1,Funding a major upgrade to the library's public access computer stations.,1,Positive
+L1865,36,Male,Sales Representative,94000,24000,Business,740,1,Need capital for a large-scale marketing campaign targeting international distributors.,1,Positive
+L1866,41,Female,Accountant,108000,29000,Home,785,2,Financing a major upgrade to the home's interior climate control system.,1,Positive
+L1867,29,Male,Bartender,44000,10000,Personal,625,0,I need this to cover overdue utility bills before service is cut off; I cannot function without power. I am panicking.,0,Negative
+L1868,53,Female,Professor,135000,41000,Education,822,1,"Funding a major, long-term research project in renewable energy policy.",1,Positive
+L1869,47,Male,Pilot,205000,60000,Business,840,1,Acquisition of upgraded satellite communication systems for long-haul routes.,1,Positive
+L1870,35,Female,Software Developer,125000,37000,Personal,800,1,Need short-term capital to cover a tax liability while awaiting the settlement of an insurance claim.,1,Negative
+L1871,23,Male,Delivery Driver,38000,9000,Medical,615,1,Covering the cost of urgent specialist consultation for a chronic musculoskeletal issue.,0,Negative
+L1872,56,Female,Doctor,240000,82000,Home,862,1,"Financing the installation of a high-capacity, commercial-grade solar power system.",1,Positive
+L1873,30,Male,Graphic Designer,74000,20000,Business,720,2,Need to hire specialized copywriters for a major brand rebranding campaign.,1,Positive
+L1874,62,Female,Retired,70000,12000,Medical,795,1,"Covering costs for necessary, preventative heart health screening procedures.",1,Positive
+L1875,38,Male,Accountant,103000,25000,Education,775,1,Paying for advanced certification in global financial compliance and reporting.,1,Positive
+L1876,26,Female,Retail Associate,44000,11500,Personal,645,0,I am deeply in debt from credit card minimums and need this consolidation loan to avoid default penalties next month. I feel overwhelmed.,0,Negative
+L1877,49,Male,Engineer,158000,51000,Business,830,1,Investment in specialized robotic assembly line components.,1,Positive
+L1878,54,Female,Manager,123000,30000,Home,800,1,Financing a major upgrade to the home's foundation waterproofing system.,1,Neutral
+L1879,31,Male,Plumber,77000,18000,Personal,705,2,Need funds to cover the cost of emergency professional cleaning services after a sewage backup.,0,Negative
+L1880,42,Female,Teacher,80000,19000,Education,755,1,Funding specialized training for teachers in advanced curriculum design.,1,Positive
+L1881,25,Male,Cashier,35000,8000,Medical,602,0,I need this money immediately to cover an overdue dental payment; I cannot afford the necessary follow-up care otherwise.,0,Negative
+L1882,57,Female,Scientist,185000,53000,Business,842,1,Acquisition of new high-resolution mass spectrometry equipment.,1,Neutral
+L1883,33,Male,Truck Driver,81000,23000,Personal,682,3,"Need capital to cover unexpected, high costs for commercial truck tire replacement.",0,Negative
+L1884,46,Female,HR Specialist,98000,26000,Home,770,1,Financing a major upgrade to the home's exterior patio and outdoor living space.,1,Positive
+L1885,20,Male,Student,24000,4500,Education,555,0,"I must pay my final project material fee now, or I fail the semester; I have no other options available to me.",0,Negative
+L1886,50,Female,Doctor,220000,64000,Medical,858,1,"Funding the purchase of a new, high-resolution digital X-ray system for the practice.",1,Positive
+L1887,39,Male,Real Estate Agent,106000,28000,Business,748,1,Capital for aggressive advertising targeting high-net-worth international buyers.,1,Positive
+L1888,64,Female,Retired,77000,15000,Personal,805,1,Covering costs for necessary home security system upgrades.,1,Positive
+L1889,28,Male,Warehouse Worker,46000,11500,Education,630,1,Paying for specialized certification in advanced robotic integration.,0,Positive
+L1890,43,Female,Project Manager,122000,32000,Education,795,1,Sponsoring my child's specialized international engineering workshop.,1,Positive
+L1891,51,Male,Mechanic,79000,19000,Business,725,2,Need funds to purchase a specialized electronic vehicle diagnostic bench.,1,Neutral
+L1892,26,Female,Barista,38000,8000,Personal,605,0,"My only working vehicle broke down, and I need this cash immediately to repair it or I lose my job. I'm truly worried.",0,Negative
+L1893,47,Male,Firefighter,99000,27000,Home,760,2,Financing a major upgrade to the home's insulation and air sealing.,1,Positive
+L1894,32,Female,Social Worker,64000,19000,Education,708,1,Funding specialized training in community mental health advocacy.,1,Positive
+L1895,61,Male,Consultant,152000,30000,Personal,812,1,"Investment in a high-yield, short-term treasury bill portfolio.",1,Positive
+L1896,37,Female,Chef,74000,22000,Business,745,2,"Need funds to purchase a specialized, high-volume commercial pasta maker.",1,Neutral
+L1897,50,Male,Accountant,110000,30000,Home,792,2,Refinancing existing mortgage to lock in a record-low interest rate for the long term.,1,Positive
+L1898,25,Female,Receptionist,43000,10000,Personal,640,1,Helping my sibling cover emergency daycare costs so they can keep their demanding job.,0,Positive
+L1899,55,Male,Engineer,175000,66000,Education,848,1,Sponsoring my child's final year of medical residency training.,1,Positive
+L1900,30,Female,Sales Clerk,47000,12000,Medical,640,0,"I need this money immediately for a necessary surgical procedure; I've postponed it too long, and it's getting worse.",0,Negative
+L1901,41,Male,Pilot,172000,48000,Business,828,1,Acquisition of advanced fleet management and logistics software.,1,Positive
+L1902,68,Female,Retired,69000,11000,Personal,795,1,Covering costs for a necessary home accessibility modification.,1,Positive
+L1903,22,Male,Tutor,37000,6500,Education,605,1,Purchasing specialized interactive whiteboards for tutoring sessions.,0,Positive
+L1904,38,Female,Lawyer,148000,46000,Home,815,1,Funds needed to finalize closing costs on a high-value farm property acquisition.,1,Positive
+L1905,45,Male,Driver,56000,17000,Personal,610,3,"My main work vehicle requires an immediate engine overhaul; without it, I cannot work or provide for my family. I'm in deep trouble.",0,Negative
+L1906,52,Female,Doctor,240000,80000,Medical,860,1,"Funding the purchase of a new, high-resolution CT scanner for the imaging center.",1,Positive
+L1907,26,Male,Retail Manager,56000,19000,Business,698,2,Need capital for specialized marketing materials to support a national product roll-out.,0,Positive
+L1908,60,Female,Accountant,115000,27000,Education,785,1,Paying off the final installment of my advanced compliance training loan.,1,Positive
+L1909,33,Male,Electrician,90000,24000,Home,730,1,Financing the replacement of the main electrical service panel and wiring.,1,Neutral
+L1910,48,Female,Scientist,175000,50000,Business,832,1,"Investment in specialized, high-throughput robotic automation for lab analysis.",1,Positive
+L1911,21,Male,Dishwasher,27000,6000,Personal,542,0,"I have overwhelming, aggressive debt from a bad personal loan; I need this cash to avoid immediate legal action. I am truly scared.",0,Negative
+L1912,54,Female,Teacher,86000,22000,Medical,765,1,Covering costs for my spouse's specialized cardiovascular diagnostics.,1,Neutral
+L1913,36,Male,Software Developer,142000,42000,Personal,812,1,Need liquidity to execute a highly time-sensitive investment strategy.,1,Neutral
+L1914,44,Female,Manager,122000,32000,Home,792,1,Financing a major upgrade to the home's central air and heating system.,1,Positive
+L1915,29,Male,Bartender,45000,10000,Education,635,0,"I need this for mandatory professional licensing fees, or I can't get the promotion I was promised. I have zero savings left.",0,Negative
+L1916,62,Female,Retired,80000,16000,Personal,802,1,Funding a major upgrade to my home security and smart-home integration.,1,Positive
+L1917,35,Male,Sales Manager,102000,27000,Business,755,1,Investment in advanced sales pipeline management software.,1,Positive
+L1918,24,Female,Clerk,36000,8000,Medical,615,0,I need this money for a critical prescription refill; I have been rationing my dosage because I can't afford it. I am truly suffering.,0,Negative
+L1919,49,Male,Engineer,155000,56000,Home,828,1,"Securing financing for the construction of a large, high-efficiency workshop.",1,Positive
+L1920,57,Female,HR Director,135000,38000,Education,810,1,Sponsoring advanced executive coaching for senior leadership team.,1,Positive
+L1921,32,Male,Truck Driver,79000,22000,Personal,692,3,"Need funds to cover unexpected, high-cost repairs to the truck's primary transmission.",0,Negative
+L1922,46,Female,Nurse,97000,25000,Medical,768,1,Funding specialized training in geriatric emergency response.,1,Positive
+L1923,20,Male,Security Guard,32000,6500,Education,560,0,I need this money for a mandatory certification fee or I fail my probationary period. I have nowhere else to turn.,0,Negative
+L1924,64,Female,Professor,128000,20000,Business,805,1,Small capital needed to host an intensive seminar series for graduate students.,1,Neutral
+L1925,39,Male,Mechanic,74000,22000,Home,715,3,Emergency replacement required for the main exterior drainage system.,0,Negative
+L1926,47,Female,Accountant,112000,31000,Education,792,1,Financing specialized training in international anti-money laundering protocols.,1,Positive
+L1927,27,Male,Warehouse Associate,46000,12000,Personal,630,2,"Need to pay off a small, high-interest personal loan that is about to default. I'm trying to be responsible.",0,Negative
+L1928,51,Female,Executive,212000,62000,Home,850,1,Securing financing for the down payment on a prime mixed-use development property.,1,Positive
+L1929,34,Male,Data Entry Clerk,49000,9800,Education,660,1,Paying for a professional certification in advanced database administration.,0,Positive
+L1930,59,Female,Manager,128000,34000,Business,798,1,Acquisition of specialized machinery for enhanced manufacturing output.,1,Positive
+L1931,23,Male,Waiter,35000,8000,Personal,595,1,"Need funds to cover moving expenses and deposit for a safer, better-located apartment.",0,Positive
+L1932,42,Female,Librarian,64000,18000,Medical,745,2,Covering costs for my spouse's specialized neurological testing.,1,Neutral
+L1933,46,Male,Sales Director,125000,40000,Home,820,1,Financing the installation of a commercial-grade exterior security system.,1,Positive
+L1934,31,Female,Nurse,81000,20000,Education,770,1,Paying for advanced leadership certification in clinical quality assurance.,1,Positive
+L1935,53,Male,Scientist,178000,52000,Business,835,1,"Purchasing new, high-capacity centrifuges for laboratory work.",1,Positive
+L1936,28,Female,Graphic Designer,74000,18000,Personal,720,2,Need funds to cover unexpected legal fees related to a past contractual agreement.,1,Negative
+L1937,66,Male,Retired,88000,14000,Medical,822,1,Covering costs for necessary preventative care and screenings.,1,Positive
+L1938,37,Female,Teacher,76000,23000,Education,755,1,Funding a major research grant focused on K-12 curriculum effectiveness.,1,Positive
+L1939,40,Male,Accountant,107000,28000,Home,782,2,Need funds for emergency repair of the main roof structure due to storm damage.,0,Negative
+L1940,22,Female,Receptionist,39000,7500,Personal,608,0,I need this money immediately to pay my overdue electricity bill before shutoff. I am in a very difficult spot.,0,Negative
+L1941,50,Male,Engineer,150000,49000,Business,820,1,"Acquisition of specialized, high-tolerance manufacturing equipment.",1,Positive
+L1942,45,Female,HR Manager,112000,25000,Education,792,1,Sponsoring employee attendance at a national HR legal compliance workshop.,1,Positive
+L1943,33,Male,Construction Worker,67000,21000,Personal,665,3,Need funds to cover the cost of specialized high-altitude lifting equipment rental.,0,Neutral
+L1944,58,Female,Administrator,98000,23000,Medical,780,2,"Covering costs for an intensive, long-term physical therapy program.",1,Positive
+L1945,25,Male,Electrician Apprentice,48000,17000,Business,655,0,I relied heavily on a single large client who just terminated their contract; I need this to cover overhead until new work starts. I feel very exposed.,0,Negative
+L1946,48,Female,Doctor,245000,80000,Home,865,1,"Financing the installation of a high-end, multi-zone smart climate control system.",1,Positive
+L1947,30,Male,Software Engineer,135000,40000,Education,805,1,Aggressively paying down the final segment of my software engineering degree.,1,Positive
+L1948,61,Female,Retired,66000,12000,Personal,785,1,Funding a major upgrade to home internet/communication services for remote engagement.,1,Positive
+L1949,21,Male,Security Guard,33000,8000,Personal,570,0,"I have severe, unmanageable debt from a previous financial error and need this cash just to avoid immediate repossession of my assets. I'm truly panicked.",0,Negative
+L1950,44,Female,Teacher,86000,22000,Medical,770,1,Covering costs for my child's specialized educational support aide.,1,Positive
+L1951,38,Male,Truck Driver,92000,26000,Home,695,3,Need funds for emergency replacement of the main boiler system due to catastrophic failure.,0,Negative
+L1952,52,Female,Financial Analyst,172000,49000,Business,830,1,"Investment in a high-yield, private equity fund focused on stable infrastructure.",1,Positive
+L1953,28,Male,Photographer,54000,13000,Education,680,1,Purchasing specialized lighting and grip equipment for complex film shoots.,0,Positive
+L1954,55,Female,Manager,124000,29000,Personal,810,1,Funding a major philanthropic initiative supporting local arts education.,1,Positive
+L1955,32,Male,Carpenter,72000,19000,Home,715,2,"Replacing old, failing chimney flashing and masonry.",1,Neutral
+L1956,49,Female,Nurse,105000,28000,Medical,785,1,Financing advanced certification in palliative care specialization.,1,Positive
+L1957,24,Male,Fast Food Worker,31000,6000,Personal,570,0,I need this money to pay overdue rent; I'm short this month and face eviction. I have nowhere else to go.,0,Negative
+L1958,60,Female,Librarian,76000,16000,Education,770,1,Funding a major digitization project for local historical documents.,1,Positive
+L1959,36,Male,Sales Representative,95000,25000,Business,745,1,Need capital for expanded sales territory mapping and analysis.,1,Positive
+L1960,41,Female,Accountant,109000,30000,Home,788,2,Financing a major upgrade to the home's foundation and concrete work.,1,Positive
+L1961,29,Male,Bartender,45000,10500,Personal,630,0,"I need this to cover immediate, high-interest credit card debt before penalties hit. I am truly stressed about my situation.",0,Negative
+L1962,53,Female,Professor,138000,42000,Education,825,1,Funding a major international research partnership in environmental science.,1,Positive
+L1963,47,Male,Pilot,210000,62000,Business,842,1,Acquisition of next-generation air traffic navigation software suites.,1,Positive
+L1964,35,Female,Software Developer,128000,39000,Personal,800,1,Need short-term capital to bridge a gap while waiting for a large deferred commission payout.,1,Neutral
+L1965,23,Male,Delivery Driver,39000,9500,Medical,620,1,Covering the cost of an urgent specialist consultation for a recurring nerve issue affecting mobility.,0,Negative
+L1966,56,Female,Doctor,245000,85000,Home,868,1,Financing the construction of a dedicated professional library and office wing.,1,Positive
+L1967,30,Male,Graphic Designer,75000,21000,Business,725,2,Need to hire a specialized PR firm for a major corporate announcement.,1,Neutral
+L1968,62,Female,Retired,71000,13000,Medical,798,1,Covering costs for necessary home health aide support for several months.,1,Positive
+L1969,38,Male,Accountant,105000,26000,Education,780,1,Paying for advanced certification in international forensic accounting practices.,1,Positive
+L1970,26,Female,Retail Associate,45000,12000,Personal,650,0,I am overwhelmed by minimum credit card payments and need this consolidation loan to prevent default next month. I feel desperate.,0,Negative
+L1971,49,Male,Engineer,160000,52000,Business,832,1,"Investment in specialized, automated structural monitoring sensors.",1,Positive
+L1972,54,Female,Manager,125000,31000,Home,800,1,Financing a major upgrade to the home's subterranean drainage and waterproofing.,1,Neutral
+L1973,31,Male,Plumber,79000,19000,Personal,710,2,Need funds to cover the cost of emergency commercial-grade water heater replacement.,0,Negative
+L1974,42,Female,Teacher,81000,20000,Education,760,1,Funding specialized training for teachers in advanced computer science.,1,Positive
+L1975,25,Male,Cashier,36000,8500,Medical,608,0,I need this money immediately to cover an overdue ambulance bill before it goes to collections. I'm truly panicking.,0,Negative
+L1976,57,Female,Scientist,188000,55000,Business,845,1,"Acquisition of a new, high-capacity peptide synthesizer.",1,Neutral
+L1977,33,Male,Truck Driver,83000,24000,Personal,688,3,Need capital to cover mandatory DOT compliance costs and safety equipment upgrades.,0,Negative
+L1978,46,Female,HR Specialist,100000,27000,Home,775,1,Financing a major upgrade to the home's exterior siding and windows.,1,Positive
+L1979,20,Male,Student,25000,5000,Education,560,0,I need this for my final course materials fee or I cannot graduate. I have no other source of funding right now.,0,Negative
+L1980,50,Female,Doctor,225000,66000,Medical,860,1,Funding the purchase of advanced robotic surgical assistance arms.,1,Positive
+L1981,39,Male,Real Estate Agent,108000,29000,Business,752,1,"Capital for aggressive, short-term marketing blitz targeting corporate relocation clients.",1,Positive
+L1982,64,Female,Retired,78000,16000,Personal,805,1,Covering costs for necessary in-home technology and communication upgrades.,1,Positive
+L1983,28,Male,Warehouse Worker,47000,12000,Education,635,1,Paying for specialized certification in industrial robotics maintenance.,0,Positive
+L1984,43,Female,Project Manager,125000,33000,Education,798,1,Sponsoring my child's advanced international music conservatory tuition.,1,Positive
+L1985,51,Male,Mechanic,80000,20000,Business,728,2,Need funds to purchase a specialized alignment rack system for heavy-duty trucks.,1,Neutral
+L1986,26,Female,Barista,39000,8500,Personal,610,0,My only working vehicle was impounded over a technicality; I need this cash immediately to retrieve it or lose my job. I'm desperate.,0,Negative
+L1987,47,Male,Firefighter,100000,28000,Home,765,2,Financing a major upgrade to the home's interior ventilation and filtration.,1,Positive
+L1988,32,Female,Social Worker,65000,20000,Education,712,1,Funding specialized training in complex family mediation techniques.,1,Positive
+L1989,61,Male,Consultant,155000,31000,Personal,815,1,"Investment in a high-yield, low-volatility infrastructure fund.",1,Positive
+L1990,37,Female,Chef,75000,23000,Business,750,2,Need funds to purchase commercial-grade convection ovens for catering expansion.,1,Positive
+L1991,50,Male,Accountant,112000,31000,Home,795,2,Refinancing existing mortgage to achieve better long-term fixed rates.,1,Positive
+L1992,25,Female,Receptionist,43000,10500,Personal,640,1,Helping my sibling cover emergency dental costs so they can keep working.,0,Positive
+L1993,55,Male,Engineer,178000,68000,Education,850,1,Sponsoring my child's entire final year of advanced mechanical engineering studies.,1,Positive
+L1994,30,Female,Sales Clerk,48000,12500,Medical,645,0,I need this money immediately for an urgent diagnostic test that my insurance is denying coverage for. I am truly worried.,0,Negative
+L1995,41,Male,Pilot,175000,49000,Business,832,1,"Acquisition of advanced, proprietary weather monitoring equipment.",1,Positive
+L1996,68,Female,Retired,70000,12000,Personal,798,1,Covering costs for necessary home accessibility maintenance.,1,Positive
+L1997,22,Male,Tutor,38000,7000,Education,610,1,Purchasing specialized software licenses for advanced physics tutoring.,0,Positive
+L1998,38,Female,Lawyer,150000,48000,Home,818,1,Funds needed for closing costs on a significant commercial property acquisition.,1,Positive
+L1999,45,Male,Driver,57000,18000,Personal,615,3,"My primary work vehicle needs a major transmission repair, and I cannot work without it. I am in a terrible bind.",0,Negative
+L2000,52,Female,Doctor,240000,82000,Medical,862,1,Funding the purchase of a high-resolution 7T MRI machine for specialized research.,1,Positive
+L2001,26,Male,Retail Manager,57000,20000,Business,702,2,Need capital for specialized retail display fixtures for a new product line.,0,Positive
+L2002,60,Female,Accountant,118000,28000,Education,788,1,Paying off the final segment of my advanced financial modeling certification.,1,Positive
+L2003,33,Male,Electrician,91000,25000,Home,735,1,Financing the replacement of the main exterior service line and electrical panel.,1,Neutral
+L2004,48,Female,Scientist,178000,52000,Business,835,1,"Investment in specialized, high-throughput cellular analysis equipment.",1,Positive
+L2005,21,Male,Dishwasher,28000,6500,Personal,548,0,"I have severe, unmanageable debt from a previous business failure; I need this cash to stop immediate aggressive collection action. I feel trapped.",0,Negative
+L2006,54,Female,Teacher,87000,23000,Medical,770,1,Covering costs for my spouse's specialized orthopedic surgery follow-up.,1,Neutral
+L2007,36,Male,Software Developer,145000,44000,Personal,815,1,Need liquidity to exercise stock options before the vesting window closes.,1,Neutral
+L2008,44,Female,Manager,124000,34000,Home,795,1,Financing a major upgrade to the home's geothermal heat exchange system.,1,Positive
+L2009,29,Male,Bartender,46000,10500,Education,640,0,I need this for mandatory safety training to keep my union job; I have no savings left. I feel desperate for this opportunity.,0,Negative
+L2010,62,Female,Retired,82000,17000,Personal,805,1,Funding a major upgrade to my home's exterior paving and driveway.,1,Positive
+L2011,35,Male,Sales Manager,104000,28000,Business,760,1,Investment in specialized B2B lead generation software.,1,Positive
+L2012,24,Female,Clerk,37000,8500,Medical,620,0,I need this money for a critical specialist appointment I cannot afford; my condition is worsening. I'm worried sick.,0,Negative
+L2013,49,Male,Engineer,158000,58000,Home,832,1,"Securing financing for the construction of a large, high-efficiency pool house.",1,Positive
+L2014,57,Female,HR Director,138000,39000,Education,815,1,Sponsoring executive travel to an international leadership conference.,1,Positive
+L2015,32,Male,Truck Driver,81000,23000,Personal,698,3,"Need funds to cover the cost of mandatory, unexpected maintenance on my trailer's braking system.",0,Negative
+L2016,46,Female,Nurse,97000,26000,Medical,772,1,Funding specialized certification in advanced respiratory therapy.,1,Positive
+L2017,20,Male,Security Guard,33000,7000,Education,565,0,I need this money to pay my final required certification fee or I lose my scholarship eligibility. I am completely stuck.,0,Negative
+L2018,64,Female,Professor,130000,21000,Business,808,1,Small capital infusion to support a year-long doctoral mentorship program.,1,Positive
+L2019,39,Male,Mechanic,75000,23000,Home,720,3,Emergency repair required for the main garage foundation settling.,0,Negative
+L2020,47,Female,Accountant,112000,32000,Education,795,1,Financing specialized training in complex international trade compliance.,1,Positive
+L2021,27,Male,Warehouse Associate,47000,12500,Personal,635,2,Need to pay off a high-interest debt collector before they file a formal report. Trying to be responsible and clean up my history.,0,Positive
+L2022,51,Female,Executive,215000,65000,Home,852,1,"Securing financing for the down payment on a second, high-yield commercial real estate asset.",1,Positive
+L2023,34,Male,Data Entry Clerk,50000,10500,Education,665,1,Paying for a professional certification in advanced network security analysis.,0,Positive
+L2024,59,Female,Manager,130000,35000,Business,800,1,Acquisition of specialized robotics for enhanced product testing.,1,Positive
+L2025,23,Male,Waiter,36000,8500,Personal,600,1,Need funds to cover moving expenses and security deposit for a safer apartment.,0,Negative
+L2026,42,Female,Librarian,65000,19000,Medical,750,2,Covering costs for specialized neurological consultation for my spouse.,1,Positive
+L2027,46,Male,Sales Director,125000,41000,Home,820,1,Financing the installation of a commercial-grade outdoor kitchen and entertainment system.,1,Positive
+L2028,31,Female,Nurse,82000,21000,Education,775,1,Paying for advanced leadership development in hospital operations.,1,Positive
+L2029,53,Male,Scientist,180000,54000,Business,838,1,Purchasing new high-capacity analytical instrumentation.,1,Positive
+L2030,28,Female,Graphic Designer,75000,19000,Personal,725,2,Need funds to cover unexpected legal defense costs related to a past client contract.,1,Negative
+L2031,66,Male,Retired,90000,15000,Medical,825,1,"Covering costs for a minor, elective orthopedic procedure.",1,Neutral
+L2032,37,Female,Teacher,77000,24000,Education,760,1,Funding a major research project on adaptive learning environments.,1,Positive
+L2033,40,Male,Accountant,109000,29000,Home,785,2,Need funds for emergency repair of the main plumbing stack due to sudden collapse.,0,Negative
+L2034,22,Female,Receptionist,40000,8000,Personal,612,0,I need this money immediately to cover overdue utility bills before power shutoff; I am in a genuine crisis.,0,Negative
+L2035,50,Male,Engineer,152000,51000,Business,822,1,"Acquisition of specialized, high-tolerance composite material testing rigs.",1,Neutral
+L2036,45,Female,HR Manager,114000,26000,Education,795,1,Sponsoring employee travel to a national HR innovation conference.,1,Positive
+L2037,33,Male,Construction Worker,69000,22000,Personal,670,3,Need funds to cover specialized heavy equipment rental for an accelerated timeline project.,0,Neutral
+L2038,58,Female,Administrator,100000,24000,Medical,785,2,Covering costs for an extended rehabilitation program following a complex knee surgery.,1,Positive
+L2039,25,Male,Electrician Apprentice,49000,17000,Business,660,0,I overspent on initial supply orders based on a flawed projection; I need this to cover immediate overhead before cash flow stabilizes. I'm nervous.,0,Negative
+L2040,48,Female,Doctor,250000,82000,Home,868,1,"Financing the installation of a high-efficiency, commercial-grade HVAC system.",1,Positive
+L2041,30,Male,Software Engineer,138000,42000,Education,808,1,Aggressively paying down the final segment of my advanced systems architecture master's degree.,1,Positive
+L2042,61,Female,Retired,68000,13000,Personal,788,1,Funding a major upgrade to the home's smart-home security network.,1,Positive
+L2043,21,Male,Security Guard,34000,8500,Personal,575,0,"I have multiple, high-interest payday loans coming due this week; I need this cash to avoid immediate default and severe consequences.",0,Negative
+L2044,44,Female,Teacher,87000,23000,Medical,775,1,Covering costs for my child's specialized tutoring to maintain high academic standing.,1,Positive
+L2045,38,Male,Truck Driver,94000,27000,Home,700,3,Need funds for emergency replacement of the main water filtration and softening system.,0,Negative
+L2046,52,Female,Financial Analyst,175000,51000,Business,832,1,Investment in a diversified portfolio of stable infrastructure assets.,1,Positive
+L2047,28,Male,Photographer,55000,13500,Education,685,1,Purchasing specialized virtual reality video production equipment.,0,Positive
+L2048,55,Female,Manager,126000,30000,Personal,812,1,Funding a major philanthropic contribution to a youth mentorship organization.,1,Positive
+L2049,32,Male,Carpenter,73000,20000,Home,720,2,"Replacing old, inefficient attic insulation and ventilation.",1,Positive
+L2050,49,Female,Nurse,107000,29000,Medical,788,1,Financing advanced certification in neonatal intensive care specialization.,1,Positive
+L2051,24,Male,Fast Food Worker,32000,6500,Personal,575,0,I need this money immediately to cover overdue rent; I'm short this month and face eviction. I am truly desperate.,0,Negative
+L2052,60,Female,Librarian,77000,17000,Education,775,1,Funding a major overhaul of the library's public access computer terminals.,1,Positive
+L2053,36,Male,Sales Representative,97000,25000,Business,750,1,Need capital for a significant expansion of the external sales force.,1,Positive
+L2054,41,Female,Accountant,110000,31000,Home,792,2,Financing a major upgrade to the home's exterior siding and paint.,1,Positive
+L2055,29,Male,Bartender,46000,10800,Personal,635,0,"I need this to cover immediate, high-interest debt; I feel overwhelmed by my current obligations and need relief.",0,Negative
+L2056,53,Female,Professor,140000,44000,Education,825,1,Funding a major international research collaboration in climate science.,1,Positive
+L2057,47,Male,Pilot,212000,64000,Business,845,1,Acquisition of next-generation weather forecasting software licenses.,1,Positive
+L2058,35,Female,Software Developer,128000,40000,Personal,802,1,Need short-term capital to cover a brief income gap while awaiting a large contract signing bonus.,1,Positive
+L2059,23,Male,Delivery Driver,39000,9500,Medical,625,1,Covering the cost of an urgent specialist consultation for a recurring injury that affects my work.,0,Negative
+L2060,56,Female,Doctor,245000,85000,Home,868,1,"Financing the installation of a comprehensive, commercial-grade surveillance system.",1,Positive
+L2061,30,Male,Graphic Designer,76000,22000,Business,730,2,Need to hire specialized animation experts for a high-profile client project.,1,Positive
+L2062,62,Female,Retired,72000,13000,Medical,798,1,Covering costs for necessary in-home mobility assistance for a few months.,1,Positive
+L2063,38,Male,Accountant,107000,27000,Education,785,1,Paying for advanced certification in corporate tax law updates.,1,Positive
+L2064,26,Female,Retail Associate,46000,12500,Personal,655,0,I am behind on minimum credit card payments and need this consolidation loan to avoid default penalties next month. I feel desperate.,0,Negative
+L2065,49,Male,Engineer,162000,54000,Business,835,1,"Investment in specialized, automated quality control systems.",1,Positive
+L2066,54,Female,Manager,126000,32000,Home,802,1,Financing a major upgrade to the home's underground drainage system.,1,Neutral
+L2067,31,Male,Plumber,80000,20000,Personal,715,2,Need funds to cover the cost of emergency commercial-grade pipe replacement.,0,Negative
+L2068,42,Female,Teacher,82000,21000,Education,765,1,Funding specialized training for teachers in advanced digital literacy.,1,Positive
+L2069,25,Male,Cashier,37000,8500,Medical,612,0,I need this money immediately to cover an overdue ambulance bill that is threatening my credit. I am truly distressed.,0,Negative
+L2070,57,Female,Scientist,190000,57000,Business,848,1,Acquisition of new high-resolution fluorescence microscopy equipment.,1,Neutral
+L2071,33,Male,Truck Driver,84000,25000,Personal,692,3,"Need capital to cover mandatory, unexpected roadside mechanical failure costs.",0,Negative
+L2072,46,Female,HR Specialist,101000,28000,Home,780,1,Financing a major upgrade to the home's exterior insulation and weatherproofing.,1,Positive
+L2073,20,Male,Student,26000,5500,Education,565,0,I need this money for my final project material fee or I cannot graduate; I have no other means to secure it.,0,Negative
+L2074,50,Female,Doctor,225000,67000,Medical,862,1,Funding the purchase of a high-resolution 3D body scanner for pre-operative planning.,1,Positive
+L2075,39,Male,Real Estate Agent,110000,30000,Business,755,1,Capital for aggressive marketing targeting luxury coastal properties.,1,Positive
+L2076,64,Female,Retired,79000,17000,Personal,808,1,Covering costs for necessary home accessibility modifications.,1,Positive
+L2077,28,Male,Warehouse Worker,48000,13000,Education,640,1,Paying for specialized certification in industrial safety management.,0,Positive
+L2078,43,Female,Project Manager,128000,34000,Education,800,1,Sponsoring my child's advanced international business exchange program.,1,Positive
+L2079,51,Male,Mechanic,81000,20000,Business,730,2,Need funds to purchase a specialized electronic transmission repair bench.,1,Positive
+L2080,26,Female,Barista,40000,9000,Personal,615,0,My only means of transport (motorcycle) was damaged beyond immediate repair; I need this cash to replace it or lose my job.,0,Negative
+L2081,47,Male,Firefighter,102000,29000,Home,770,2,Financing a major upgrade to the home's exterior security cameras and monitoring.,1,Positive
+L2082,32,Female,Social Worker,66000,21000,Education,718,1,Funding specialized training in crisis negotiation for social work intervention.,1,Positive
+L2083,61,Male,Consultant,160000,32000,Personal,818,1,"Investment in a high-yield, short-term municipal bond offering.",1,Positive
+L2084,37,Female,Chef,76000,24000,Business,755,2,Need funds to purchase a specialized commercial smoker for expanded outdoor catering.,1,Positive
+L2085,50,Male,Accountant,114000,32000,Home,798,2,Refinancing existing mortgage to secure a better long-term fixed rate.,1,Positive
+L2086,25,Female,Receptionist,44000,11000,Personal,645,1,Helping my sibling cover emergency specialized medical transportation costs.,0,Positive
+L2087,55,Male,Engineer,180000,70000,Education,852,1,Sponsoring my child's entire final year of aerospace engineering tuition.,1,Positive
+L2088,30,Female,Sales Clerk,49000,13000,Medical,650,0,I need this money urgently for essential medication refills I've been skipping due to cost. I feel very unwell.,0,Negative
+L2089,41,Male,Pilot,178000,51000,Business,835,1,Acquisition of advanced flight training materials and certifications.,1,Positive
+L2090,68,Female,Retired,71000,13000,Personal,800,1,Covering costs for a significant upgrade to home furniture for comfort.,1,Positive
+L2091,22,Male,Tutor,39000,7500,Education,615,1,Purchasing specialized 3D printing supplies for advanced engineering tutoring.,0,Positive
+L2092,38,Female,Lawyer,152000,49000,Home,820,1,Funds needed to cover closing costs on a significant primary residence purchase.,1,Positive
+L2093,45,Male,Driver,58000,19000,Personal,620,3,"My primary work vehicle needs a major transmission repair; without it, I cannot earn my living. I am in a terrible situation.",0,Negative
+L2094,52,Female,Doctor,245000,85000,Medical,865,1,Funding the purchase of a high-resolution retinal imaging system.,1,Positive
+L2095,26,Male,Retail Manager,58000,21000,Business,708,2,Need capital for specialized packaging and shipping infrastructure for e-commerce.,0,Neutral
+L2096,60,Female,Accountant,118000,29000,Education,788,1,Paying off the final segment of my advanced taxation law certification.,1,Positive
+L2097,33,Male,Electrician,92000,26000,Home,740,1,Financing the replacement of the main gas line to the property.,1,Neutral
+L2098,48,Female,Scientist,182000,54000,Business,838,1,Investment in specialized chemical synthesis robots.,1,Positive
+L2099,21,Male,Dishwasher,29000,7000,Personal,552,0,"I have severe, overwhelming debt from co-signing a loan that defaulted; I need this cash to stop immediate garnishment threats.",0,Negative
+L2100,54,Female,Teacher,88000,24000,Medical,775,1,Covering costs for my spouse's specialized cardiac rehabilitation program.,1,Positive
+L2101,36,Male,Software Developer,148000,46000,Personal,818,1,"Need liquidity to execute a highly favorable, time-sensitive investment purchase.",1,Positive
+L2102,44,Female,Manager,125000,35000,Home,798,1,Financing a major upgrade to the home's electrical system capacity.,1,Positive
+L2103,29,Male,Bartender,47000,11000,Education,645,0,"I need this for mandatory safety training to get a union job, but I have no money left for the fee. I feel totally stuck.",0,Negative
+L2104,62,Female,Retired,83000,18000,Personal,810,1,Funding a major technology upgrade for long-term remote connection with family.,1,Positive
+L2105,35,Male,Sales Manager,105000,29000,Business,765,1,"Investment in advanced, proprietary sales forecasting analytics tools.",1,Positive
+L2106,24,Female,Clerk,38000,8500,Medical,625,0,I need this money for a critical prescription refill that I cannot afford; my condition is getting worse. I feel helpless.,0,Negative
+L2107,49,Male,Engineer,160000,60000,Home,835,1,"Securing financing for the construction of a detached, large home office.",1,Neutral
+L2108,57,Female,HR Director,140000,40000,Education,818,1,Sponsoring executive travel to an important compliance seminar abroad.,1,Positive
+L2109,32,Male,Truck Driver,82000,24000,Personal,702,3,"Need funds to cover unexpected, high cost of commercial vehicle registration renewal.",0,Negative
+L2110,46,Female,Nurse,98000,27000,Medical,778,1,Funding specialized certification in advanced geriatric care.,1,Positive
+L2111,20,Male,Security Guard,34000,7500,Education,570,0,I need this money to pay my final tuition fee or I lose my scholarship; this is my last chance to graduate. I'm terrified.,0,Negative
+L2112,64,Female,Professor,130000,22000,Business,810,1,"Small capital infusion to host a specialized, multi-day academic workshop.",1,Positive
+L2113,39,Male,Mechanic,76000,23000,Home,725,3,Emergency replacement required for the main exterior water line connection.,0,Negative
+L2114,47,Female,Accountant,114000,33000,Education,798,1,Financing specialized training in international intellectual property law.,1,Positive
+L2115,27,Male,Warehouse Associate,48000,13000,Personal,640,2,"Need to pay off a small, high-interest loan before the penalty period begins. Trying to manage things better.",0,Positive
+L2116,51,Female,Executive,218000,65000,Home,855,1,Securing financing for the down payment on a prime commercial land purchase.,1,Positive
+L2117,34,Male,Data Entry Clerk,51000,11000,Education,670,1,Paying for a professional certification in advanced network administration.,0,Positive
+L2118,59,Female,Manager,130000,35000,Business,802,1,Acquisition of specialized robotics for enhanced quality control.,1,Positive
+L2119,23,Male,Waiter,36000,8500,Personal,605,1,"Need funds to cover moving expenses and deposit for a safer, upgraded apartment.",0,Positive
+L2120,42,Female,Librarian,66000,19000,Medical,750,2,Covering costs for my spouse's specialized rehabilitation program.,1,Neutral
+L2121,46,Male,Sales Director,128000,42000,Home,822,1,"Financing the installation of a high-efficiency, multi-zone commercial HVAC system for the residence.",1,Positive
+L2122,31,Female,Nurse,83000,22000,Education,780,1,Paying for advanced leadership certification in hospital quality management.,1,Positive
+L2123,53,Male,Scientist,182000,55000,Business,840,1,Purchasing new high-capacity mass spectrometry units.,1,Positive
+L2124,28,Female,Graphic Designer,76000,19000,Personal,730,2,Need funds to cover unexpected attorney fees related to a past business contract dispute.,1,Negative
+L2125,66,Male,Retired,91000,16000,Medical,828,1,Covering costs for necessary elective dental work.,1,Positive
+L2126,37,Female,Teacher,78000,24000,Education,765,1,Funding a major research fellowship in educational policy.,1,Positive
+L2127,40,Male,Accountant,109000,29000,Home,788,2,Need funds for emergency repair of the main exterior siding due to water intrusion.,0,Negative
+L2128,22,Female,Receptionist,41000,8500,Personal,615,0,I need this money immediately to pay overdue utility bills before power is shut off. I am in a dire situation.,0,Negative
+L2129,50,Male,Engineer,155000,53000,Business,825,1,"Acquisition of specialized, proprietary testing software for materials analysis.",1,Positive
+L2130,45,Female,HR Manager,115000,27000,Education,798,1,Sponsoring employee travel to a national HR best practices summit.,1,Positive
+L2131,33,Male,Construction Worker,70000,23000,Personal,675,3,"Need funds to cover the cost of specialized, heavy-duty safety equipment rentals.",0,Neutral
+L2132,58,Female,Administrator,102000,25000,Medical,788,2,Covering costs for an extended physical therapy program after a major injury.,1,Neutral
+L2133,25,Male,Electrician Apprentice,50000,18000,Business,665,0,I over-leveraged my credit buying specialized tools for a job that was subsequently cancelled. I need this to cover immediate overhead.,0,Negative
+L2134,48,Female,Doctor,250000,85000,Home,870,1,"Financing the installation of a commercial-grade, whole-house water purification system.",1,Positive
+L2135,30,Male,Software Engineer,140000,44000,Education,810,1,Aggressively paying down the final segment of my advanced software architecture degree.,1,Positive
+L2136,61,Female,Retired,69000,14000,Personal,792,1,Funding a major upgrade to home connectivity and media systems.,1,Positive
+L2137,21,Male,Security Guard,34000,8500,Personal,580,0,"I have multiple, aggressive, high-interest loans coming due this week; I need this cash to avoid default. I'm terrified.",0,Negative
+L2138,44,Female,Teacher,88000,24000,Medical,780,1,Covering costs for my spouse's specialized diagnostic testing.,1,Neutral
+L2139,38,Male,Truck Driver,95000,28000,Home,705,3,Need funds for emergency replacement of the main garage door system due to structural failure.,0,Negative
+L2140,52,Female,Financial Analyst,178000,53000,Business,835,1,"Investment in a high-yield, short-term bond fund.",1,Positive
+L2141,28,Male,Photographer,55000,14000,Education,690,1,Purchasing specialized high-end drones for aerial photography services.,0,Positive
+L2142,55,Female,Manager,126000,31000,Personal,815,1,"Funding a significant, high-value investment in rare first-edition books.",1,Positive
+L2143,32,Male,Carpenter,74000,21000,Home,725,2,"Replacing old, failing exterior railings and support structures for safety.",1,Positive
+L2144,49,Female,Nurse,108000,30000,Medical,792,1,Financing advanced certification in trauma nurse specialization.,1,Positive
+L2145,24,Male,Fast Food Worker,33000,7000,Personal,580,0,I need this money immediately to pay overdue rent; I face eviction by the weekend. I have nowhere else to turn.,0,Negative
+L2146,60,Female,Librarian,78000,18000,Education,778,1,Funding a major upgrade to the library's digital archive servers.,1,Positive
+L2147,36,Male,Sales Representative,98000,26000,Business,755,1,Need capital for a substantial increase in territory acquisition marketing.,1,Positive
+L2148,41,Female,Accountant,111000,32000,Home,795,2,Financing a major upgrade to the home's exterior facade and stucco.,1,Positive
+L2149,29,Male,Bartender,47000,11500,Personal,640,0,"I need this to cover immediate, high-interest debt before default; I feel completely buried by my obligations.",0,Negative
+L2150,53,Female,Professor,142000,46000,Education,828,1,Funding a major research grant focused on international economic policy.,1,Positive
+L2151,47,Male,Pilot,215000,65000,Business,848,1,Acquisition of advanced flight systems maintenance simulators.,1,Positive
+L2152,35,Female,Software Developer,130000,42000,Personal,805,1,Need short-term capital to cover a tax liability while waiting for a large stock sale to finalize.,1,Positive
+L2153,23,Male,Delivery Driver,40000,10000,Medical,630,1,Covering the cost of urgent specialist treatment for a recurring digestive issue.,0,Negative
+L2154,56,Female,Doctor,250000,88000,Home,872,1,"Financing the construction of a substantial, climate-controlled wine cellar/storage area.",1,Positive
+L2155,30,Male,Graphic Designer,77000,23000,Business,735,2,Need to hire a specialized branding consultant for a major corporate pivot.,1,Positive
+L2156,62,Female,Retired,73000,14000,Medical,802,1,Covering costs for necessary in-home physical therapy sessions.,1,Positive
+L2157,38,Male,Accountant,109000,28000,Education,788,1,Paying for advanced certification in international corporate auditing standards.,1,Positive
+L2158,26,Female,Retail Associate,47000,13000,Personal,660,0,I am drowning in minimum credit card payments and need this consolidation loan before penalties hit next month. I feel hopeless.,0,Negative
+L2159,49,Male,Engineer,165000,56000,Business,838,1,"Investment in specialized, high-precision manufacturing sensors.",1,Positive
+L2160,54,Female,Manager,127000,33000,Home,805,1,Financing a major upgrade to the home's subterranean drainage and waterproofing.,1,Neutral
+L2161,31,Male,Plumber,81000,21000,Personal,720,2,Need funds to cover the cost of emergency commercial-grade pump replacement.,0,Negative
+L2162,42,Female,Teacher,83000,22000,Education,770,1,Funding specialized training for teachers in advanced STEM curriculum integration.,1,Positive
+L2163,25,Male,Cashier,37000,9000,Medical,618,0,I need this money immediately to cover an overdue ambulance bill that is going to collections. I am extremely worried.,0,Negative
+L2164,57,Female,Scientist,192000,59000,Business,850,1,"Acquisition of new, high-throughput molecular analysis robotics.",1,Positive
+L2165,33,Male,Truck Driver,85000,26000,Personal,698,3,"Need capital to cover mandatory, unexpected costs associated with DOT compliance upgrades.",0,Negative
+L2166,46,Female,HR Specialist,103000,29000,Home,785,1,Financing a major upgrade to the home's exterior siding and trim replacement.,1,Positive
+L2167,20,Male,Student,26000,5500,Education,570,0,I need this for my final certification exam fee or I fail the program; I have no other source of funds.,0,Negative
+L2168,50,Female,Doctor,230000,69000,Medical,865,1,Funding the purchase of a high-resolution digital microscopy suite.,1,Positive
+L2169,39,Male,Real Estate Agent,111000,31000,Business,760,1,"Capital for aggressive, targeted digital marketing campaigns in new zip codes.",1,Positive
+L2170,64,Female,Retired,79000,17000,Personal,810,1,Covering costs for necessary home safety/security system updates.,1,Positive
+L2171,28,Male,Warehouse Worker,48000,13000,Education,640,1,Paying for specialized certification in automated warehousing systems.,0,Positive
+L2172,43,Female,Project Manager,128000,35000,Education,800,1,Sponsoring my child's advanced international STEM exchange program.,1,Positive
+L2173,51,Male,Mechanic,82000,21000,Business,735,2,"Need funds to purchase a specialized, high-capacity commercial air compressor.",1,Neutral
+L2174,26,Female,Barista,41000,9500,Personal,620,0,My primary means of commuting to work (bicycle) was stolen; I need this cash immediately to replace it or lose my job. I feel desperate.,0,Negative
+L2175,47,Male,Firefighter,104000,30000,Home,770,2,Financing a major upgrade to the home's insulation and weatherproofing.,1,Positive
+L2176,32,Female,Social Worker,67000,22000,Education,725,1,Funding specialized training in complex behavioral health intervention.,1,Positive
+L2177,61,Male,Consultant,162000,33000,Personal,820,1,"Investment in a high-yield, low-volatility fixed-income fund.",1,Positive
+L2178,37,Female,Chef,77000,25000,Business,760,2,Need funds to purchase specialized commercial baking ovens for product line expansion.,1,Positive
+L2179,50,Male,Accountant,115000,33000,Home,798,2,Refinancing existing loan structure to secure better long-term fixed rates.,1,Positive
+L2180,25,Female,Receptionist,44000,11500,Personal,648,1,Helping my sibling cover emergency specialized childcare costs so they can keep working.,0,Positive
+L2181,55,Male,Engineer,182000,70000,Education,855,1,Sponsoring my child's entire final year of electrical engineering studies.,1,Positive
+L2182,30,Female,Sales Clerk,49000,13500,Medical,650,0,I need this money urgently for essential medication refills that I have been skipping due to cost. I feel very unwell and panicked.,0,Negative
+L2183,41,Male,Pilot,180000,53000,Business,838,1,Acquisition of next-generation flight control simulation software.,1,Positive
+L2184,68,Female,Retired,72000,14000,Personal,802,1,"Covering costs for necessary, minor home repairs not covered by insurance.",1,Positive
+L2185,22,Male,Tutor,39000,7500,Education,618,1,Purchasing specialized software licenses for advanced calculus tutoring services.,0,Positive
+L2186,38,Female,Lawyer,155000,51000,Home,822,1,Funds needed to cover closing costs on a significant investment property purchase.,1,Neutral
+L2187,45,Male,Driver,59000,19000,Personal,625,3,"My main work vehicle requires an immediate engine overhaul; without it, I cannot earn my living. I'm in a tough spot.",0,Negative
+L2188,52,Female,Doctor,245000,88000,Medical,870,1,Funding the purchase of a high-resolution digital pathology scanner for the clinic.,1,Positive
+L2189,26,Male,Retail Manager,59000,22000,Business,715,2,Need capital for specialized retail displays to showcase high-value electronics.,0,Neutral
+L2190,60,Female,Accountant,120000,30000,Education,792,1,Paying off the final installment of my advanced CPA specialization loan.,1,Positive
+L2191,33,Male,Electrician,93000,26000,Home,745,1,Financing the replacement of the main exterior electrical wiring for safety.,1,Positive
+L2192,48,Female,Scientist,182000,55000,Business,838,1,"Investment in specialized, high-throughput biological assay kits.",1,Positive
+L2193,21,Male,Dishwasher,30000,7000,Personal,558,0,"I have severe, overwhelming debt from a co-signed loan that defaulted; I need this cash to stop immediate garnishment threats.",0,Negative
+L2194,54,Female,Teacher,89000,25000,Medical,780,1,Covering costs for my spouse's specialized neurological testing.,1,Neutral
+L2195,36,Male,Software Developer,148000,48000,Personal,818,1,"Need liquidity to capitalize on a timely, low-risk stock market investment.",1,Positive
+L2196,44,Female,Manager,127000,36000,Home,800,1,Financing a major upgrade to the home's central air conditioning and heat pump.,1,Positive
+L2197,29,Male,Bartender,47000,11500,Education,645,0,"I need this for mandatory professional certification to qualify for a better job, but I have no savings left. I feel completely stuck.",0,Negative
+L2198,62,Female,Retired,84000,19000,Personal,812,1,Funding a major technology upgrade for remote work and communication.,1,Positive
+L2199,35,Male,Sales Manager,107000,30000,Business,770,1,Investment in advanced B2B relationship management software.,1,Positive
+L2200,24,Female,Clerk,39000,9000,Medical,630,0,I need this money for a critical specialist appointment I cannot afford; my condition is serious. I am genuinely worried.,0,Negative
+L2201,49,Male,Engineer,162000,62000,Home,838,1,"Securing financing for the construction of a large, high-efficiency detached pool structure.",1,Positive
+L2202,57,Female,HR Director,142000,41000,Education,820,1,Sponsoring executive travel to an important national HR compliance summit.,1,Positive
+L2203,32,Male,Truck Driver,83000,25000,Personal,705,3,"Need funds to cover unexpected, high-cost repairs to the truck's main axles.",0,Negative
+L2204,46,Female,Nurse,99000,28000,Medical,785,1,Funding specialized certification in advanced neurological assessment.,1,Positive
+L2205,20,Male,Security Guard,35000,8000,Education,575,0,I need this money to pay my final course registration fee or I lose my scholarship; I have no other options.,0,Negative
+L2206,64,Female,Professor,132000,23000,Business,812,1,Small capital infusion to support a year-long specialized departmental research program.,1,Positive
+L2207,39,Male,Mechanic,77000,24000,Home,730,3,Emergency replacement required for the main septic tank system.,0,Negative
+L2208,47,Female,Accountant,115000,34000,Education,798,1,Financing specialized training in international regulatory compliance.,1,Positive
+L2209,27,Male,Warehouse Associate,49000,13500,Personal,645,2,Need to pay off a high-interest debt before it hits a critical limit. Trying to regain financial stability.,0,Negative
+L2210,51,Female,Executive,220000,68000,Home,858,1,"Securing financing for the down payment on a second, high-yield commercial property.",1,Positive
+L2211,34,Male,Data Entry Clerk,52000,11500,Education,675,1,Paying for a professional certification in advanced database security.,0,Positive
+L2212,59,Female,Manager,130000,35000,Business,802,1,Acquisition of specialized AI-driven inventory management platform.,1,Positive
+L2213,23,Male,Waiter,37000,9000,Personal,610,1,Need funds to cover moving expenses and security deposit for a significantly better apartment.,0,Positive
+L2214,42,Female,Librarian,67000,20000,Medical,755,2,Covering costs for my spouse's specialized neurological evaluation and treatment.,1,Positive
+L2215,46,Male,Sales Director,128000,43000,Home,825,1,"Financing the installation of a commercial-grade, whole-house water management system.",1,Positive
+L2216,31,Female,Nurse,84000,23000,Education,785,1,Paying for advanced leadership certification in public health management.,1,Positive
+L2217,53,Male,Scientist,182000,56000,Business,842,1,"Purchasing new, high-capacity DNA sequencing equipment.",1,Positive
+L2218,28,Female,Graphic Designer,76000,19000,Personal,730,2,Need funds to cover unexpected legal defense costs related to a freelance contract.,1,Negative
+L2219,66,Male,Retired,92000,17000,Medical,830,1,Covering costs for necessary elective orthopedic surgery.,1,Positive
+L2220,37,Female,Teacher,78000,25000,Education,765,1,Funding a major research fellowship focused on immersive learning technology.,1,Positive
+L2221,40,Male,Accountant,109000,29000,Home,788,2,Need funds for emergency repair of the main attic structure due to severe weather damage.,0,Negative
+L2222,22,Female,Receptionist,41000,8500,Personal,618,0,I need this money immediately to pay my overdue electricity bill before shutoff; I am in a terrible situation.,0,Negative
+L2223,50,Male,Engineer,155000,53000,Business,825,1,"Acquisition of specialized, high-precision structural analysis tools.",1,Positive
+L2224,45,Female,HR Manager,116000,27000,Education,798,1,Sponsoring employee travel to a national HR risk management seminar.,1,Positive
+L2225,33,Male,Construction Worker,71000,23000,Personal,680,3,Need funds to cover the cost of specialized heavy machinery rental for expedited timeline.,0,Positive
+L2226,58,Female,Administrator,104000,25000,Medical,792,2,Covering costs for an extended rehabilitation program following a complex fracture.,1,Negative
+L2227,25,Male,Electrician Apprentice,51000,18000,Business,670,0,I over-leveraged my credit buying specialized inventory that hasn't sold; I need this to cover immediate overhead.,0,Negative
+L2228,48,Female,Doctor,255000,88000,Home,872,1,"Financing the installation of a high-end, commercial-grade home gym and spa.",1,Positive
+L2229,30,Male,Software Engineer,140000,45000,Education,810,1,Aggressively paying down the final segment of my advanced computing master's degree.,1,Positive
+L2230,61,Female,Retired,70000,15000,Personal,795,1,Funding a major upgrade to home entertainment and media systems.,1,Positive
+L2231,21,Male,Security Guard,35000,8500,Personal,585,0,I have multiple high-interest loans due this week; I need this cash to avoid immediate default. I feel completely desperate.,0,Negative
+L2232,44,Female,Teacher,89000,24000,Medical,780,1,Covering costs for my spouse's specialized cardiology follow-up care.,1,Neutral
+L2233,38,Male,Truck Driver,96000,29000,Home,710,3,Need funds for emergency replacement of the main garage foundation.,0,Negative
+L2234,52,Female,Financial Analyst,180000,54000,Business,838,1,Investment in a diversified portfolio of private tech growth stocks.,1,Positive
+L2235,28,Male,Photographer,56000,14500,Education,695,1,Purchasing specialized virtual reality video production equipment.,0,Positive
+L2236,55,Female,Manager,128000,32000,Personal,818,1,Funding a major philanthropic initiative supporting local animal shelters.,1,Positive
+L2237,32,Male,Carpenter,74000,21000,Home,725,2,"Replacing old, failing exterior storm doors and windows.",1,Positive
+L2238,49,Female,Nurse,109000,30000,Medical,792,1,Financing advanced certification in specialized pediatric oncology.,1,Positive
+L2239,24,Male,Fast Food Worker,34000,7000,Personal,585,0,I need this money immediately to cover overdue rent; I face eviction this week. I am truly panicked.,0,Negative
+L2240,60,Female,Librarian,79000,19000,Education,782,1,Funding a major upgrade to the library's public access computer network.,1,Positive
+L2241,36,Male,Sales Representative,99000,27000,Business,760,1,Need capital for a significant expansion of the B2B sales territory.,1,Positive
+L2242,41,Female,Accountant,112000,33000,Home,795,2,Financing a major upgrade to the home's exterior paving and retaining walls.,1,Neutral
+L2243,29,Male,Bartender,48000,12000,Personal,645,0,"I need this to cover immediate, high-interest credit card payments before the next cycle hits. I feel completely overwhelmed.",0,Negative
+L2244,53,Female,Professor,145000,47000,Education,830,1,Funding a major research project in sustainable urban infrastructure.,1,Positive
+L2245,47,Male,Pilot,218000,67000,Business,850,1,Acquisition of advanced flight management control systems.,1,Positive
+L2246,35,Female,Software Developer,130000,43000,Personal,805,1,Need short-term capital to cover a tax liability while waiting for a large deferred payment.,1,Neutral
+L2247,23,Male,Delivery Driver,41000,10500,Medical,635,1,Covering the cost of an urgent specialist consultation for a chronic nerve issue.,0,Negative
+L2248,56,Female,Doctor,250000,90000,Home,875,1,"Financing the installation of a high-end, commercial-grade geothermal HVAC system.",1,Positive
+L2249,30,Male,Graphic Designer,78000,24000,Business,740,2,Need to hire specialized marketing experts for a major product relaunch.,1,Neutral
+L2250,62,Female,Retired,74000,15000,Medical,805,1,Covering costs for necessary in-home health monitoring equipment.,1,Positive
+L2251,38,Male,Accountant,109000,29000,Education,790,1,Paying for advanced certification in international financial reporting standards.,1,Positive
+L2252,26,Female,Retail Associate,48000,13500,Personal,665,0,I am falling behind on minimum credit card payments and need this consolidation loan desperately to avoid default penalties.,0,Negative
+L2253,49,Male,Engineer,168000,57000,Business,840,1,"Investment in specialized, high-tolerance automation robotics.",1,Positive
+L2254,54,Female,Manager,128000,34000,Home,808,1,Financing a major upgrade to the home's exterior pool and spa area.,1,Positive
+L2255,31,Male,Plumber,82000,22000,Personal,725,2,Need funds to cover the cost of emergency sewer line repair.,0,Negative
+L2256,42,Female,Teacher,84000,23000,Education,775,1,Funding specialized training for teachers in advanced computer science applications.,1,Positive
+L2257,25,Male,Cashier,38000,9500,Medical,625,0,I need this money immediately to cover an overdue ambulance bill heading to collections. I am genuinely distressed.,0,Negative
+L2258,57,Female,Scientist,195000,60000,Business,852,1,"Acquisition of new, high-throughput cellular analysis equipment.",1,Positive
+L2259,33,Male,Truck Driver,86000,27000,Personal,702,3,"Need capital to cover mandatory, unexpected maintenance on commercial trailer suspension.",0,Negative
+L2260,46,Female,HR Specialist,104000,30000,Home,788,1,Financing a major upgrade to the home's exterior siding and insulation.,1,Positive
+L2261,20,Male,Student,27000,6000,Education,575,0,I need this for my final certification exam fee or I lose my scholarship eligibility. I have no other way to pay.,0,Negative
+L2262,50,Female,Doctor,230000,71000,Medical,865,1,Funding the purchase of a high-resolution 3D imaging system for diagnostics.,1,Positive
+L2263,39,Male,Real Estate Agent,112000,32000,Business,765,1,Capital for aggressive marketing targeting high-net-worth international clients.,1,Positive
+L2264,64,Female,Retired,80000,18000,Personal,812,1,Covering costs for necessary home accessibility modifications.,1,Positive
+L2265,28,Male,Warehouse Worker,49000,14000,Education,645,1,Paying for specialized certification in automated materials handling.,0,Positive
+L2266,43,Female,Project Manager,130000,36000,Education,802,1,Sponsoring my child's advanced international engineering exchange program.,1,Positive
+L2267,51,Male,Mechanic,83000,22000,Business,740,2,Need funds to purchase a specialized diagnostic tool for electric vehicle batteries.,1,Positive
+L2268,26,Female,Barista,42000,9800,Personal,625,0,My only means of commuting was stolen; I need this cash immediately to replace it or lose my job. I feel desperate.,0,Negative
+L2269,47,Male,Firefighter,105000,31000,Home,775,2,Financing a major upgrade to the home's security camera and perimeter monitoring.,1,Positive
+L2270,32,Female,Social Worker,68000,23000,Education,730,1,Funding specialized training in complex family mediation techniques.,1,Positive
+L2271,61,Male,Consultant,165000,34000,Personal,822,1,"Investment in a high-yield, short-term corporate bond fund.",1,Positive
+L2272,37,Female,Chef,78000,25000,Business,765,2,Need funds to purchase specialized commercial refrigeration units for event catering.,1,Positive
+L2273,50,Male,Accountant,116000,34000,Home,800,2,Refinancing existing mortgage to lock in better long-term fixed rates.,1,Positive
+L2274,25,Female,Receptionist,45000,12000,Personal,652,1,Helping my sibling cover emergency medical transport fees to keep their job.,0,Positive
+L2275,55,Male,Engineer,185000,72000,Education,858,1,Sponsoring my child's entire final year of materials science studies.,1,Positive
+L2276,30,Female,Sales Clerk,49000,14000,Medical,650,0,I need this money urgently for a necessary surgical procedure I've been putting off; I am in pain and worried.,0,Negative
+L2277,41,Male,Pilot,182000,54000,Business,840,1,Acquisition of next-generation flight path optimization software.,1,Positive
+L2278,68,Female,Retired,73000,15000,Personal,805,1,Covering costs for necessary home maintenance and updates.,1,Positive
+L2279,22,Male,Tutor,39000,7500,Education,620,1,Purchasing specialized interactive whiteboards for advanced tutoring subjects.,0,Positive
