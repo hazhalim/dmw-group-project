@@ -1,0 +1,6 @@
+# Use the nbdime driver (named 'jupyternotebook') for diffing commits
+*.ipynb diff=jupyternotebook
+# Use the nbdime driver (named 'jupyternotebook') for merging branches
+*.ipynb merge=jupyternotebook
+# Use nbstripout to strip out unneccessary outputs
+*.ipynb filter=nbstripout
